@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Security &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject2/category/security/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 14 Sep 2021 08:10:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Cách để bắt đầu học An ning mạng</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/14/cach-de-bat-dau-hoc-an-ning-mang/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/14/cach-de-bat-dau-hoc-an-ning-mang/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2021 08:10:55 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[anningmang]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[pentest]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=82</guid>
+
+					<description><![CDATA[An ninh mạng (Cyber Security) được cho là một môn rất khó học, nhưng mình sẽ cho bạn thấy rằng bất kỳ ai từ bất kỳ lĩnh vực nào cũng có thể học được, kể cả bạn! Bài viết này sẽ giúp bạn bắt đầu tìm hiểu lĩnh vực bảo mật theo lộ trình tiêu chuẩn nhất.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>An ninh mạng (Cyber Security) được cho là một môn rất khó học, nhưng mình sẽ cho bạn thấy rằng bất kỳ ai từ bất kỳ lĩnh vực nào cũng có thể học được, kể cả bạn! Bài viết này sẽ giúp bạn bắt đầu tìm hiểu lĩnh vực bảo mật theo lộ trình tiêu chuẩn nhất.</strong></p>
+
+
+
+<span id="more-82"></span>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/getting-started-2-2.jpg" alt="" class="wp-image-83" width="750" height="422"/></figure></div>
+
+
+
+<p>Không gian mạng (Cyber) là ngành phát triển nhanh nhất trong hầu hết các lĩnh vực trên thế giới. Nhận thức ngày càng cao về các cuộc tấn công mạng nổi tiếng đã dẫn đến việc các nhà tuyển dụng tranh nhau tìm ứng viên, thường là để tạo ra các bộ phận bảo mật mà trước đây chưa có. Điều này đã tạo ra một khoảng trống lớn trong bảo mật thông tin, nơi mà tỷ lệ thất nghiệp gần bằng 0 (không phải ở Việt Nam :v) đã khiến đây là một trong những thời điểm tốt nhất để gia nhập ngành nà. Là một người mới, bạn sẽ thấy rằng cộng đồng InfoSec rất tuyệt vời, đặc biệt nếu bạn là người tự học và sẵn sàng tìm tòi và khám phá. Trong suốt bài viết này, mình sẽ chia nhỏ cách để bắt đầu và nơi bạn có thể đi trong lĩnh vực này.</p>
+
+
+
+<ol class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Biết được nơi bắt đầu từ đâu ?</strong></li></ol>
+
+
+
+<p>Cuộc hành trình học an ninh mạng không quá khó khăn, tuy nhiên, nó thường hơi quá sức đối với nhiều người mới. An toàn thông tin là một lĩnh vực rộng lớn với rất nhiều kiến ​​thức. Hacking thực sự là một trò chơi nhiều não, bạn phải tìm hiểu từng kiến thức của từng lĩnh vực. Một điều bạn cần biết là quá trình này không liên quan đến việc học và nắm vững kiến thức, đúng hơn, đây chỉ là quá trình tóm tắt và “biết được những gì có thể xảy ra”.</p>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p>Để hack được 1 thứ gì đó, trước hết bạn phải hiểu cách và lý do hoạt động của chúng, hiểu cách nguyên tắc cơ bản là quan trọng nhất</p></blockquote>
+
+
+
+<p>TryHackMe là một nơi tuyệt vời để bắt đầu và có thể dễ dàng đẩy nhanh quá trình học của bạn thông qua các lộ trình học tập có sẵn.</p>
+
+
+
+<p>Mỗi lộ trình học tập đều sử dụng phương pháp tiếp cận có hướng dẫn để học an ninh mạng và bao gồm các bài tập thực hành và phòng thí nghiệm, cùng với hướng dẫn bằng video. Bạn sẽ có được lộ trình hoàn chỉnh dành cho người mới bắt đầu, như học những kiến ​​thức cơ bản về linux, mạng và lập trình cho đến khi hack được chiếc máy đầu tiên.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Screenshot-from-2021-02-23-15-42-15.jpg" alt="" class="wp-image-84"/></figure></div>
+
+
+
+<p>Tiếp theo bạn sẽ được chọn giữa 2 con đường là tấn công và phòng thủ, bạn sẽ khám phá các kỹ năng cần thiết để tham gia thử nghiệm thâm nhập hoặc Người điều hành SOC/vai trò phòng thủ trong ngành.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/image-4.jpg" alt="" class="wp-image-85"/></figure></div>
+
+
+
+<p>Khi bạn đã nắm được những kiến ​​thức cơ bản, mình khuyên bạn nên đăng các bài viết trên blog về trải nghiệm của bạn hoặc một chủ đề đặc biệt thú vị mà bạn đã học được. Các bài viết trên blog là một cách tuyệt vời để củng cố kiến ​​thức và tham khảo lại trong tương lai nếu quên.</p>
+
+
+
+<p>Các bài viết đó có thể mang lại lợi ích rất nhiều cho bạn trong quá trình phỏng vấn, cho phép những người phỏng vấn có cái nhìn thoáng qua về kiến ​​thức chuyên môn của bạn. Ngoài ra, các bài viết đó có thể thể hiện kỹ năng báo cáo và viết lách, một kỹ năng rất quan trọng trong InfoSec.</p>
+
+
+
+<p>Cuối cùng nhưng chắc chắn không kém phần quan trọng, các thử thách thực tế có thể là một bài kiểm tra tuyệt vời đối với các kỹ năng mà bạn đã học được. Các thử thách trên TryHackMe rất đa dạng, từ các máy ảo khó bị tấn công đến các câu đố pháp y số nhằm khiến bạn phải suy nghĩ thấu đáo. Tương tự như các bài viết trên blog, báo cáo về những thử thách này có thể thể hiện kỹ năng tư duy phản biện của bạn. Khi bạn hoàn thành thử thách, thì việc thể hiện kỹ năng và đóng góp lại cho cộng đồng là một cách tuyệt vời để phát triển bản thân và giành được vị trí cao trong các cuộc phỏng vấn.</p>
+
+
+
+<ol start="2" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Các lĩnh vực trong an ninh mạng</strong></li></ol>
+
+
+
+<p>An ninh mạng bao gồm rất nhiều mảng con, từ tấn công đến phòng thủ và nhiều mảng khác nữa. Hãy phân tích một số lĩnh vực mà bạn có thể nghiên cứu:</p>
+
+
+
+<p><strong>Kiểm tra thâm nhập –&nbsp;</strong>Các pentesters thường chịu trách nhiệm thực hiện các bài kiểm tra thâm nhập trên các hệ thống được bảo vệ. Không giống như red teamers, pentesters thường không quan tâm đến việc bị bắt, thay vào đó, họ cố gắng tìm ra càng nhiều vấn đề và lỗ hổng để tấn công hệ thống càng tốt . Các yêu cầu chung của mảng này bao gồm: kiến ​​thức cơ bản về lập trình (bạn có thể học&nbsp;<a href="https://anonyviet.com/top-5-ngon-ngu-lap-trinh-hacker-mu-trang-nen-hoc/">các ngôn ngữ này</a>), kỹ năng pentesting cơ bản và tư duy phản biện.</p>
+
+
+
+<p><strong>Red Team –&nbsp;</strong>Thường bị nhầm lẫn với kiểm tra thâm nhập, red team (đội đỏ) đảm nhiệm vai trò tấn công hệ thống. Những người này thường mô phỏng các APT, các mối đe dọa và rủi ro khi hệ thống bị tấn công. Tuy nhiên, red team thường trở thành manh mối của blue team vì vai trò của họ là huấn luyện các kỹ năng nhận biết và hành động phù hợp khi đối mặt với APT. Yêu cầu chung bao gồm: Kỹ năng lập trình vững, phát triển phần mềm độc hại, kiến ​​thức kiểm tra thâm nhập,… Những người trong red team có bộ kỹ năng vô cùng đa dạng và chuyên biệt để phù hợp với môi trường họ đang hoạt động. Những người trong red team thường bắt đầu với tư cách là những người kiểm tra thâm nhập.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/bat-dau-hoc-an-ninh-mang.jpg" alt="" class="wp-image-86"/></figure></div>
+
+
+
+<p><strong>Nhà điều hành SOC –&nbsp;</strong>Tương tự như vai trò DFIR (xem bên dưới), SOC, Trung tâm Điều hành Hệ thống (Systems Operations Center), Nhà điều hành (Operator) là một vị trí phòng thủ kiên cố. Các nhà điều hành SOC sử dụng SIEM và các hệ thống giám sát môi trường khác nhau. Bạn đã bao giờ xem một bộ phim điệp viên ly kỳ mà một trong những nhân vật phụ xem màn hình khổng lồ chứa mọi thứ? Công việc của SOC thường giống như vậy. Các yêu cầu chung bao gồm: kiến ​​thức cơ bản về lập trình, kiến ​​thức cơ bản về các kiểu tấn công và một số kỹ năng xử lý nhẹ.</p>
+
+
+
+<p><strong>DFIR –&nbsp;</strong>Nghĩa là pháp y kỹ thuật số và ứng phó sự cố (Digital Forensics and Incident Response). Hãy coi đây là cơ hội để bạn trở thành Sherlock Holmes. Theo truyền thống, công việc của DFIR được thực hiện sau khi một cuộc tấn công xảy ra, họ làm việc để giải mã phần mềm độc hại hoặc dọn dẹp một doanh nghiệp đã bị đòi tiền chuộc. Các yêu cầu chung bao gồm: kiến ​​thức cơ bản về lập trình, kiến ​​thức cơ bản về tác nhân đe dọa và khả năng làm việc dưới áp lực.</p>
+
+
+
+<ol start="3" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Công việc về An ninh mạng</strong></li></ol>
+
+
+
+<p>Khoảng cách về kỹ năng an ninh mạng đang tăng lên hàng năm và nhu cầu nhân sự chưa bao giờ hạ nhiệt. Mình có sưu tầm 1 vài mẫu tin tuyển dụng mà bạn có thể tham khảo dưới đây.</p>
+
+
+
+<ul style="font-size:25px"><li><strong>Vị trí tuyển dụng 1: Pentester</strong></li></ul>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/cong-viec-an-ninh-mang.jpg" alt="" class="wp-image-87"/></figure></div>
+
+
+
+<p>Thông thường, những ứng cử viên đáp ứng tất cả các yêu cầu được liệt kê sẽ được coi là vượt tiêu chuẩn và không phù hợp cho vị trí hiện tại chỉ đơn giản là công ty sẽ không có đủ ngân sách để trả cho năng lực của bạn. Ví dụ như: bạn muốn tuyển đầu bếp cho quán ăn thì sẽ tuyển đầu bếp bình thường hay 5 sao? Mình sẽ chia nhỏ các yêu cầu như sau:</p>
+
+
+
+<ul><li>Chuyên môn bảo mật trong ít nhất một trong các lĩnh vực sau …. – điều này có nghĩa là bạn đã có kinh nghiệm trong các lĩnh vực được liệt kê.</li><li>Hiểu rõ về các khái niệm bảo mật cấp hệ thống và các phương pháp hay nhất – Đây là một ví dụ tuyệt vời về vị trí pentester chuyên biệt hơn, trong đó môi trường làm việc được liên kết chặt chẽ hơn với các hệ thống.</li><li>Kỹ năng kiểm tra code – Yêu cầu bạn cảm thấy thoải mái khi đọc code và nhận ra các vấn đề trong đó.</li></ul>
+
+
+
+<ul style="font-size:25px"><li><strong>Vị trí tuyển dụng 2: Thực tập sinh An ninh</strong></li></ul>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/luong-nganh-an-ninh-mang.jpg" alt="" class="wp-image-88"/></figure></div>
+
+
+
+<p>Các yêu cầu khá cơ bản và thường thì phù hợp cho những bạn nào muốn tìm việc làm thêm khi còn đang đi học. Do vị trí này không cần những người có chuyên môn cao nên nhà tuyển dụng sẽ không đòi hỏi quá nhiều ở bạn. Bạn chỉ cần biết những kiến thức cơ bản về phòng thủ và tấn công là được.</p>
+
+
+
+<ul style="font-size:25px"><li><strong>Vị trí đăng tuyển 3: Nhà điều hành SOC</strong></li></ul>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/vi-tri-tuyen-dung-an-ninh-mang.jpg" alt="" class="wp-image-89"/></figure></div>
+
+
+
+<p>Cuối cùng nhưng chắc chắn không kém phần quan trọng, vị trí SOC. Đây là những gì thường được coi yêu cầu của ứng viên SOC hoặc NOC. Có một số yêu cầu khó hiểu ở đây:</p>
+
+
+
+<ul><li>Quản lý cấu hình và kiểm soát thay đổi – thoải mái với việc điều chỉnh cấu hình thiết bị bảo mật (tường lửa, những thứ tương tự)</li><li>Trao đổi các chính sách và thủ tục cho các hoạt động hỗ trợ – Có kỹ năng giao tiếp vững chắc với khả năng chia nhỏ các chủ đề phức tạp thành các mục có thể hành động</li><li>Cung cấp hỗ trợ cấp độ 1/2 bằng cách sở hữu và giải quyết các vấn đề, câu hỏi và sự cố – Khắc phục sự cố và cung cấp hỗ trợ từ các câu hỏi cơ bản của đến các vấn đề bảo mật phức tạp hơn</li><li>Kiểm tra và xác minh quyền của người dùng và tệp – Có kiến ​​thức về các phương pháp hay nhất và khả năng nhận ra những nơi mà quyền của người dùng có thể không được triển khai chính xác</li></ul>
+
+
+
+<ol start="3" style="font-size:35px"><li><strong>Lương của nghành An ninh mạng</strong></li></ol>
+
+
+
+<p>Ngoài việc là một lĩnh vực bổ ích về mặt giáo dục, an ninh mạng cũng có thể mang lại lợi ích vô cùng lớn về mặt tài chính. Đây là một ví dụ về thu nhập trung bình cho mỗi vị trí. Lưu ý, lương của bạn có thể thay đổi, tuy nhiên, đây là lương trung bình của những người trong lĩnh vực này.</p>
+
+
+
+<ul><li>Nhà phân tích an ninh mạng (Nhà điều hành Think SOC) – $98,987 USD1/năm</li><li>Máy kiểm tra thâm nhập – $118.174 USD/năm</li><li>Kỹ sư bảo mật – $107.993 USD/năm</li></ul>
+
+
+
+<p>Ở Việt Nam thì thấp hơn nhiều, bạn có thể xem báo cáo của TopDev<a rel="noreferrer noopener" href="https://anonyviet.com/tieptucdidentrangmoi/?url=https%3A%2F%2Ftopdev.vn%2FTopDev_VietnamITLandscape_2020.pdf" target="_blank">&nbsp;tại đây</a>.</p>
+
+
+
+<ol start="4" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Chứng nhận An ninh mạng</strong></li></ol>
+
+
+
+<p>Nhìn chung, chứng chỉ có thể là một chủ đề phức tạp vì giá trị của chúng có thể thay đổi tùy theo nhà tuyển dụng. Nói chung, chứng chỉ thể hiện kinh nghiệm mà bạn có.</p>
+
+
+
+<p>Mặc dù có nhiều tổ chức chứng nhận khác nhau, nhưng hai tổ chức được hầu hết các nhà tuyển dụng công nhận là CompTIA và Offensive Security (OffSec) với một số chứng chỉ phổ biến và có giá trị nhất là Security+ và Offensive Security Certified Professional (OSCP). Có thể nói, những chứng chỉ khác nhau tùy theo nhà tuyển dụng và bạn nên hỏi những người đi trước xem các công ty tìm kiếm điều gì ở nhân viên của họ. Ngoài ra, bạn nên tìm hiểu các chứng chỉ bạn muốn học và đọc các bài đánh giá cho phù hợp.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/image-2.jpg" alt="" class="wp-image-90"/></figure></div>
+
+
+
+<ol start="5" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Kết luận</strong></li></ol>
+
+
+
+<p>An ninh mạng là một lĩnh vực vô cùng bổ ích và bây giờ là một trong những thời điểm tốt nhất để tham gia vào lĩnh vực này. Các trang web tăng cường đào tạo trực tuyến như TryHackMe giúp việc học trở nên thú vị và dễ dàng hơn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/14/cach-de-bat-dau-hoc-an-ning-mang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

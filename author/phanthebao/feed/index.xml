@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>phanthebao &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject2/author/phanthebao/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 14 Sep 2021 08:10:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Cách để bắt đầu học An ning mạng</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/14/cach-de-bat-dau-hoc-an-ning-mang/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/14/cach-de-bat-dau-hoc-an-ning-mang/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2021 08:10:55 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[anningmang]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[pentest]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=82</guid>
+
+					<description><![CDATA[An ninh mạng (Cyber Security) được cho là một môn rất khó học, nhưng mình sẽ cho bạn thấy rằng bất kỳ ai từ bất kỳ lĩnh vực nào cũng có thể học được, kể cả bạn! Bài viết này sẽ giúp bạn bắt đầu tìm hiểu lĩnh vực bảo mật theo lộ trình tiêu chuẩn nhất.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>An ninh mạng (Cyber Security) được cho là một môn rất khó học, nhưng mình sẽ cho bạn thấy rằng bất kỳ ai từ bất kỳ lĩnh vực nào cũng có thể học được, kể cả bạn! Bài viết này sẽ giúp bạn bắt đầu tìm hiểu lĩnh vực bảo mật theo lộ trình tiêu chuẩn nhất.</strong></p>
+
+
+
+<span id="more-82"></span>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/getting-started-2-2.jpg" alt="" class="wp-image-83" width="750" height="422"/></figure></div>
+
+
+
+<p>Không gian mạng (Cyber) là ngành phát triển nhanh nhất trong hầu hết các lĩnh vực trên thế giới. Nhận thức ngày càng cao về các cuộc tấn công mạng nổi tiếng đã dẫn đến việc các nhà tuyển dụng tranh nhau tìm ứng viên, thường là để tạo ra các bộ phận bảo mật mà trước đây chưa có. Điều này đã tạo ra một khoảng trống lớn trong bảo mật thông tin, nơi mà tỷ lệ thất nghiệp gần bằng 0 (không phải ở Việt Nam :v) đã khiến đây là một trong những thời điểm tốt nhất để gia nhập ngành nà. Là một người mới, bạn sẽ thấy rằng cộng đồng InfoSec rất tuyệt vời, đặc biệt nếu bạn là người tự học và sẵn sàng tìm tòi và khám phá. Trong suốt bài viết này, mình sẽ chia nhỏ cách để bắt đầu và nơi bạn có thể đi trong lĩnh vực này.</p>
+
+
+
+<ol class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Biết được nơi bắt đầu từ đâu ?</strong></li></ol>
+
+
+
+<p>Cuộc hành trình học an ninh mạng không quá khó khăn, tuy nhiên, nó thường hơi quá sức đối với nhiều người mới. An toàn thông tin là một lĩnh vực rộng lớn với rất nhiều kiến ​​thức. Hacking thực sự là một trò chơi nhiều não, bạn phải tìm hiểu từng kiến thức của từng lĩnh vực. Một điều bạn cần biết là quá trình này không liên quan đến việc học và nắm vững kiến thức, đúng hơn, đây chỉ là quá trình tóm tắt và “biết được những gì có thể xảy ra”.</p>
+
+
+
+<blockquote class="wp-block-quote is-style-large"><p>Để hack được 1 thứ gì đó, trước hết bạn phải hiểu cách và lý do hoạt động của chúng, hiểu cách nguyên tắc cơ bản là quan trọng nhất</p></blockquote>
+
+
+
+<p>TryHackMe là một nơi tuyệt vời để bắt đầu và có thể dễ dàng đẩy nhanh quá trình học của bạn thông qua các lộ trình học tập có sẵn.</p>
+
+
+
+<p>Mỗi lộ trình học tập đều sử dụng phương pháp tiếp cận có hướng dẫn để học an ninh mạng và bao gồm các bài tập thực hành và phòng thí nghiệm, cùng với hướng dẫn bằng video. Bạn sẽ có được lộ trình hoàn chỉnh dành cho người mới bắt đầu, như học những kiến ​​thức cơ bản về linux, mạng và lập trình cho đến khi hack được chiếc máy đầu tiên.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Screenshot-from-2021-02-23-15-42-15.jpg" alt="" class="wp-image-84"/></figure></div>
+
+
+
+<p>Tiếp theo bạn sẽ được chọn giữa 2 con đường là tấn công và phòng thủ, bạn sẽ khám phá các kỹ năng cần thiết để tham gia thử nghiệm thâm nhập hoặc Người điều hành SOC/vai trò phòng thủ trong ngành.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/image-4.jpg" alt="" class="wp-image-85"/></figure></div>
+
+
+
+<p>Khi bạn đã nắm được những kiến ​​thức cơ bản, mình khuyên bạn nên đăng các bài viết trên blog về trải nghiệm của bạn hoặc một chủ đề đặc biệt thú vị mà bạn đã học được. Các bài viết trên blog là một cách tuyệt vời để củng cố kiến ​​thức và tham khảo lại trong tương lai nếu quên.</p>
+
+
+
+<p>Các bài viết đó có thể mang lại lợi ích rất nhiều cho bạn trong quá trình phỏng vấn, cho phép những người phỏng vấn có cái nhìn thoáng qua về kiến ​​thức chuyên môn của bạn. Ngoài ra, các bài viết đó có thể thể hiện kỹ năng báo cáo và viết lách, một kỹ năng rất quan trọng trong InfoSec.</p>
+
+
+
+<p>Cuối cùng nhưng chắc chắn không kém phần quan trọng, các thử thách thực tế có thể là một bài kiểm tra tuyệt vời đối với các kỹ năng mà bạn đã học được. Các thử thách trên TryHackMe rất đa dạng, từ các máy ảo khó bị tấn công đến các câu đố pháp y số nhằm khiến bạn phải suy nghĩ thấu đáo. Tương tự như các bài viết trên blog, báo cáo về những thử thách này có thể thể hiện kỹ năng tư duy phản biện của bạn. Khi bạn hoàn thành thử thách, thì việc thể hiện kỹ năng và đóng góp lại cho cộng đồng là một cách tuyệt vời để phát triển bản thân và giành được vị trí cao trong các cuộc phỏng vấn.</p>
+
+
+
+<ol start="2" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Các lĩnh vực trong an ninh mạng</strong></li></ol>
+
+
+
+<p>An ninh mạng bao gồm rất nhiều mảng con, từ tấn công đến phòng thủ và nhiều mảng khác nữa. Hãy phân tích một số lĩnh vực mà bạn có thể nghiên cứu:</p>
+
+
+
+<p><strong>Kiểm tra thâm nhập –&nbsp;</strong>Các pentesters thường chịu trách nhiệm thực hiện các bài kiểm tra thâm nhập trên các hệ thống được bảo vệ. Không giống như red teamers, pentesters thường không quan tâm đến việc bị bắt, thay vào đó, họ cố gắng tìm ra càng nhiều vấn đề và lỗ hổng để tấn công hệ thống càng tốt . Các yêu cầu chung của mảng này bao gồm: kiến ​​thức cơ bản về lập trình (bạn có thể học&nbsp;<a href="https://anonyviet.com/top-5-ngon-ngu-lap-trinh-hacker-mu-trang-nen-hoc/">các ngôn ngữ này</a>), kỹ năng pentesting cơ bản và tư duy phản biện.</p>
+
+
+
+<p><strong>Red Team –&nbsp;</strong>Thường bị nhầm lẫn với kiểm tra thâm nhập, red team (đội đỏ) đảm nhiệm vai trò tấn công hệ thống. Những người này thường mô phỏng các APT, các mối đe dọa và rủi ro khi hệ thống bị tấn công. Tuy nhiên, red team thường trở thành manh mối của blue team vì vai trò của họ là huấn luyện các kỹ năng nhận biết và hành động phù hợp khi đối mặt với APT. Yêu cầu chung bao gồm: Kỹ năng lập trình vững, phát triển phần mềm độc hại, kiến ​​thức kiểm tra thâm nhập,… Những người trong red team có bộ kỹ năng vô cùng đa dạng và chuyên biệt để phù hợp với môi trường họ đang hoạt động. Những người trong red team thường bắt đầu với tư cách là những người kiểm tra thâm nhập.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/bat-dau-hoc-an-ninh-mang.jpg" alt="" class="wp-image-86"/></figure></div>
+
+
+
+<p><strong>Nhà điều hành SOC –&nbsp;</strong>Tương tự như vai trò DFIR (xem bên dưới), SOC, Trung tâm Điều hành Hệ thống (Systems Operations Center), Nhà điều hành (Operator) là một vị trí phòng thủ kiên cố. Các nhà điều hành SOC sử dụng SIEM và các hệ thống giám sát môi trường khác nhau. Bạn đã bao giờ xem một bộ phim điệp viên ly kỳ mà một trong những nhân vật phụ xem màn hình khổng lồ chứa mọi thứ? Công việc của SOC thường giống như vậy. Các yêu cầu chung bao gồm: kiến ​​thức cơ bản về lập trình, kiến ​​thức cơ bản về các kiểu tấn công và một số kỹ năng xử lý nhẹ.</p>
+
+
+
+<p><strong>DFIR –&nbsp;</strong>Nghĩa là pháp y kỹ thuật số và ứng phó sự cố (Digital Forensics and Incident Response). Hãy coi đây là cơ hội để bạn trở thành Sherlock Holmes. Theo truyền thống, công việc của DFIR được thực hiện sau khi một cuộc tấn công xảy ra, họ làm việc để giải mã phần mềm độc hại hoặc dọn dẹp một doanh nghiệp đã bị đòi tiền chuộc. Các yêu cầu chung bao gồm: kiến ​​thức cơ bản về lập trình, kiến ​​thức cơ bản về tác nhân đe dọa và khả năng làm việc dưới áp lực.</p>
+
+
+
+<ol start="3" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Công việc về An ninh mạng</strong></li></ol>
+
+
+
+<p>Khoảng cách về kỹ năng an ninh mạng đang tăng lên hàng năm và nhu cầu nhân sự chưa bao giờ hạ nhiệt. Mình có sưu tầm 1 vài mẫu tin tuyển dụng mà bạn có thể tham khảo dưới đây.</p>
+
+
+
+<ul style="font-size:25px"><li><strong>Vị trí tuyển dụng 1: Pentester</strong></li></ul>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/cong-viec-an-ninh-mang.jpg" alt="" class="wp-image-87"/></figure></div>
+
+
+
+<p>Thông thường, những ứng cử viên đáp ứng tất cả các yêu cầu được liệt kê sẽ được coi là vượt tiêu chuẩn và không phù hợp cho vị trí hiện tại chỉ đơn giản là công ty sẽ không có đủ ngân sách để trả cho năng lực của bạn. Ví dụ như: bạn muốn tuyển đầu bếp cho quán ăn thì sẽ tuyển đầu bếp bình thường hay 5 sao? Mình sẽ chia nhỏ các yêu cầu như sau:</p>
+
+
+
+<ul><li>Chuyên môn bảo mật trong ít nhất một trong các lĩnh vực sau …. – điều này có nghĩa là bạn đã có kinh nghiệm trong các lĩnh vực được liệt kê.</li><li>Hiểu rõ về các khái niệm bảo mật cấp hệ thống và các phương pháp hay nhất – Đây là một ví dụ tuyệt vời về vị trí pentester chuyên biệt hơn, trong đó môi trường làm việc được liên kết chặt chẽ hơn với các hệ thống.</li><li>Kỹ năng kiểm tra code – Yêu cầu bạn cảm thấy thoải mái khi đọc code và nhận ra các vấn đề trong đó.</li></ul>
+
+
+
+<ul style="font-size:25px"><li><strong>Vị trí tuyển dụng 2: Thực tập sinh An ninh</strong></li></ul>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/luong-nganh-an-ninh-mang.jpg" alt="" class="wp-image-88"/></figure></div>
+
+
+
+<p>Các yêu cầu khá cơ bản và thường thì phù hợp cho những bạn nào muốn tìm việc làm thêm khi còn đang đi học. Do vị trí này không cần những người có chuyên môn cao nên nhà tuyển dụng sẽ không đòi hỏi quá nhiều ở bạn. Bạn chỉ cần biết những kiến thức cơ bản về phòng thủ và tấn công là được.</p>
+
+
+
+<ul style="font-size:25px"><li><strong>Vị trí đăng tuyển 3: Nhà điều hành SOC</strong></li></ul>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/vi-tri-tuyen-dung-an-ninh-mang.jpg" alt="" class="wp-image-89"/></figure></div>
+
+
+
+<p>Cuối cùng nhưng chắc chắn không kém phần quan trọng, vị trí SOC. Đây là những gì thường được coi yêu cầu của ứng viên SOC hoặc NOC. Có một số yêu cầu khó hiểu ở đây:</p>
+
+
+
+<ul><li>Quản lý cấu hình và kiểm soát thay đổi – thoải mái với việc điều chỉnh cấu hình thiết bị bảo mật (tường lửa, những thứ tương tự)</li><li>Trao đổi các chính sách và thủ tục cho các hoạt động hỗ trợ – Có kỹ năng giao tiếp vững chắc với khả năng chia nhỏ các chủ đề phức tạp thành các mục có thể hành động</li><li>Cung cấp hỗ trợ cấp độ 1/2 bằng cách sở hữu và giải quyết các vấn đề, câu hỏi và sự cố – Khắc phục sự cố và cung cấp hỗ trợ từ các câu hỏi cơ bản của đến các vấn đề bảo mật phức tạp hơn</li><li>Kiểm tra và xác minh quyền của người dùng và tệp – Có kiến ​​thức về các phương pháp hay nhất và khả năng nhận ra những nơi mà quyền của người dùng có thể không được triển khai chính xác</li></ul>
+
+
+
+<ol start="3" style="font-size:35px"><li><strong>Lương của nghành An ninh mạng</strong></li></ol>
+
+
+
+<p>Ngoài việc là một lĩnh vực bổ ích về mặt giáo dục, an ninh mạng cũng có thể mang lại lợi ích vô cùng lớn về mặt tài chính. Đây là một ví dụ về thu nhập trung bình cho mỗi vị trí. Lưu ý, lương của bạn có thể thay đổi, tuy nhiên, đây là lương trung bình của những người trong lĩnh vực này.</p>
+
+
+
+<ul><li>Nhà phân tích an ninh mạng (Nhà điều hành Think SOC) – $98,987 USD1/năm</li><li>Máy kiểm tra thâm nhập – $118.174 USD/năm</li><li>Kỹ sư bảo mật – $107.993 USD/năm</li></ul>
+
+
+
+<p>Ở Việt Nam thì thấp hơn nhiều, bạn có thể xem báo cáo của TopDev<a rel="noreferrer noopener" href="https://anonyviet.com/tieptucdidentrangmoi/?url=https%3A%2F%2Ftopdev.vn%2FTopDev_VietnamITLandscape_2020.pdf" target="_blank">&nbsp;tại đây</a>.</p>
+
+
+
+<ol start="4" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Chứng nhận An ninh mạng</strong></li></ol>
+
+
+
+<p>Nhìn chung, chứng chỉ có thể là một chủ đề phức tạp vì giá trị của chúng có thể thay đổi tùy theo nhà tuyển dụng. Nói chung, chứng chỉ thể hiện kinh nghiệm mà bạn có.</p>
+
+
+
+<p>Mặc dù có nhiều tổ chức chứng nhận khác nhau, nhưng hai tổ chức được hầu hết các nhà tuyển dụng công nhận là CompTIA và Offensive Security (OffSec) với một số chứng chỉ phổ biến và có giá trị nhất là Security+ và Offensive Security Certified Professional (OSCP). Có thể nói, những chứng chỉ khác nhau tùy theo nhà tuyển dụng và bạn nên hỏi những người đi trước xem các công ty tìm kiếm điều gì ở nhân viên của họ. Ngoài ra, bạn nên tìm hiểu các chứng chỉ bạn muốn học và đọc các bài đánh giá cho phù hợp.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/image-2.jpg" alt="" class="wp-image-90"/></figure></div>
+
+
+
+<ol start="5" class="has-vivid-cyan-blue-color has-text-color" style="font-size:35px"><li><strong>Kết luận</strong></li></ol>
+
+
+
+<p>An ninh mạng là một lĩnh vực vô cùng bổ ích và bây giờ là một trong những thời điểm tốt nhất để tham gia vào lĩnh vực này. Các trang web tăng cường đào tạo trực tuyến như TryHackMe giúp việc học trở nên thú vị và dễ dàng hơn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/14/cach-de-bat-dau-hoc-an-ning-mang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/hello-world/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 13:16:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebao_demo3/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>8 lý do bạn nên chuyển từ YouTube sang DTube</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 00:25:57 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<category><![CDATA[#blockchain]]></category>
+		<category><![CDATA[#dtube]]></category>
+		<category><![CDATA[#youtube]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=68</guid>
+
+					<description><![CDATA[Vì tất cả dung lượng lưu trữ nội dung video đều nằm trên máy chủ của YouTube, nên người dùng cuối không có quyền kiểm soát những gì xảy ra với video của họ. YouTube quyết định những gì nên có trên nền tảng của họ, chứ không phải người dùng YouTube. Nếu bạn muốn kiếm tiền từ video của mình thông qua quảng cáo, YouTube là nhà môi giới quyết định việc kiếm tiền của bạn có hợp lý hay không.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>DTube ra đời khắc phục những nhược điểm của Youtube, Video của bạn sẽ được bảo toàn và không bị xóa vô cớ bởi chính sách của Youtube.</strong></p>
+
+
+
+<h2 style="font-size:35px">Nhược điểm của youtube</h2>
+
+
+
+<p>Vì tất cả dung lượng lưu trữ nội dung video đều nằm trên máy chủ của YouTube, nên người dùng cuối không có quyền kiểm soát những gì xảy ra với video của họ. YouTube quyết định những gì nên có trên nền tảng của họ, chứ không phải người dùng YouTube. Nếu bạn muốn kiếm tiền từ video của mình thông qua quảng cáo, YouTube là nhà môi giới quyết định việc kiếm tiền của bạn có hợp lý hay không.</p>
+
+
+
+<span id="more-68"></span>
+
+
+
+<p>Thuật toán của YouTube được cho là sẽ quảng bá nội dung một cách công bằng, nhưng một số người sáng tạo nội dung trên youtube thì không nghĩ như vậy.<ins></ins></p>
+
+
+
+<p>Vậy nên trang web video tập trung có thể là vấn đề. Nhưng nếu YouTube tệ, tại sao mọi người vẫn sử dụng nó? Không phải ai cũng vậy. Một số người đã chuyển sang sử dụng DTube.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/dtube.jpg" alt="" class="wp-image-69" width="530" height="302"/></figure></div>
+
+
+
+<p>DTube là một dịch vụ video phi tập trung tồn tại trên blockchain chứ không phải một máy chủ trung tâm. Người sáng tạo nội dung có thể sử dụng dịch vụ thoải mái vì dữ liệu của bạn sẽ an toàn. Hơn nữa, nội dung video không thể bị kiểm duyệt bởi bất kỳ ai bên ngoài cộng đồng DTube.</p>
+
+
+
+<p>Tiền được tích lũy thông qua tiền điện tử thay vì dựa vào quảng cáo và không có thuật toán ẩn, thay vào đó trang web sẽ dựa trên phản hồi trực tiếp của người dùng để xếp hạng video.</p>
+
+
+
+<ol style="font-size:35px"><li><strong>DTube là một nền tảng phi tập trung</strong></li></ol>
+
+
+
+<p>Trước hết, DTube không có máy chủ trung tâm. Tất cả nội dung được lưu trữ trên blockchain. Về bản chất, dữ liệu của blockchain được xác minh giữa tất cả các thành viên của nó.<ins></ins></p>
+
+
+
+<p>Đây là một ví dụ về Distributed Hash Tables (DHT) và hoạt động tương tự như việc nén thông tin ngang hàng (peer-to-peer). Do đó, không có một tệp video chính xác nào ở một nơi.</p>
+
+
+
+<p>Điều này làm cho việc giả mạo nội dung video trên DTube trở nên khó khăn, nếu không muốn nói là không thể. DTube không phải là ứng dụng trực tuyến duy nhất hoạt động theo cách này này. Nếu bạn đã từng tự hỏi bản thân rằng liệu một mạng internet thực sự phi tập trung có khả thi hay không, thì DTube là câu trả lời.</p>
+
+
+
+<p>Video phi tập trung có nghĩa là không có cách nào để xóa nội dung khỏi trang web. Đây có thể là con dao 2 lưỡi. Tuy nhiên, đối với một số người dùng, việc đảm bảo rằng nội dung của họ không nằm trong tay một tổ chức lớn là một ưu điểm và là lý do để chuyển sang DTube.</p>
+
+
+
+<ol start="2" style="font-size:35px"><li><strong>DTube là một dịch vụ bảo mật</strong></li></ol>
+
+
+
+<p>Không có máy chủ trung tâm có nghĩa là không có nơi cố định lưu trữ tất cả dữ liệu của người dùng. Mọi người đều đăng video dưới bút danh đã đặt và trang web không có sử dụng cách đăng nhập truyền thống, mà dùng nền tảng Steemit.</p>
+
+
+
+<p>Bạn có thể xác định danh tính của mình theo bất kỳ cách nào bạn muốn, nhưng không có cách nào để dữ liệu của bạn bị rò rỉ.</p>
+
+
+
+<ol start="3" style="font-size:35px"><li><strong>DTube không có quảng cáo</strong></li></ol>
+
+
+
+<p>Vì DTube sử dụng DTube Coin ($DTC) làm đơn vị tiền tệ của mình, nên không cần quảng cáo. Người dùng bình chọn video để đánh giá. Các video phổ biến nhận được $DTC và nó được thanh toán vào ví của người sáng tạo nội dung.</p>
+
+
+
+<p>Người sáng tạo có thể tự do quảng cáo trong video của họ, nhưng nhiều người dùng không thích quảng cáo, do đó, dựa vào $DTC dường như là cách tốt nhất để kiếm tiền từ video trên DTube.</p>
+
+
+
+<ol start="4" style="font-size:35px"><li><strong>Bạn có thể kiếm tiền trên DTube</strong></li></ol>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/dtube-coin.jpg" alt="" class="wp-image-70"/></figure></div>
+
+
+
+<p>Có thể bạn đã nhận ra rằng DTube là một nền tảng khá hấp dẫn cho những người sáng tạo nội dung.</p>
+
+
+
+<p>Nền tảng này đã phổ biến với các vlogger, nhiều người trong số họ tạo nội dung về chính DTube, cũng như tiền điện tử nói chung.</p>
+
+
+
+<p>Một sự khác biệt đáng kể với DTube là video chỉ kiếm được tiền trong bảy ngày. Bất cứ điều gì bạn đã làm trong thời gian này đều được trả vào ví của bạn. Video vẫn còn trên trang web, nhưng nó sẽ ngừng thu được tiền.</p>
+
+
+
+<ol start="5" style="font-size:35px"><li><strong>Dtube không có kiểm duyệt</strong></li></ol>
+
+
+
+<p>DTube còn cho bạn tự do ngôn luận. Phi tập trung có nghĩa là không có cách kiểm duyệt video. Trong khi YouTube quyết định điều gì phù hợp với nền tảng của mình, thì DTube lại khác.</p>
+
+
+
+<p>Cộng đồng tự đánh giá tất cả nội dung video. Về nguyên tắc, dịch vụ cho phép bất kỳ thứ gì trên trang web, nhưng trên thực tế, cộng đồng rất giỏi trong việc lọc ra các video vô ích hoặc nguy hiểm.</p>
+
+
+
+<ol start="6" style="font-size:35px"><li><strong>DTube không có thuật toán</strong></li></ol>
+
+
+
+<p>YouTube đề xuất video dựa trên một hệ thống phân tích siêu dữ liệu được cho là công bằng. Nhưng mình chắc là các bạn không nghĩ như vậy và cũng ko có gì đảm bảo video của bạn sẽ đến với người dùng.</p>
+
+
+
+<p>DTube giải quyết vấn đề này bằng cách dựa trên lượt xem và đánh giá của người dùng. Nếu cộng đồng cho rằng video của bạn có giá trị, video của bạn sẽ có được sức hút và được xếp hạng trong số các video thịnh hành.</p>
+
+
+
+<ol start="7" style="font-size:35px"><li><strong>DTube có một cộng đồng tốt</strong></li></ol>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/dtube_about_670-670x263-1.jpg" alt="" class="wp-image-71"/></figure></div>
+
+
+
+<p>DTube có một cộng đồng chặt chẽ, với nhiều người sáng tạo nội dung liên kết với nhau về các dự án và chia sẻ công việc của nhau. Nhiều người dùng ví DTube là thành viên ngày đầu của YouTube.<ins></ins></p>
+
+
+
+<p>Cộng đồng năng động này, cùng với động lực tài chính mà nền tảng mang lại, khiến DTube trở thành một cộng đồng trẻ sôi động đang trên đà phát triển.</p>
+
+
+
+<ol start="8" style="font-size:35px"><li><strong>DTube không phải là một phần của Big Five</strong></li></ol>
+
+
+
+<p>Google, Amazon, Facebook, Microsoft và Apple là những gã khổng lồ công nghệ. Họ hoàn toàn thống trị công nghệ. Thật hiếm khi tìm thấy bất kỳ dịch vụ nào không sử dụng dịch vụ của họ. Hầu hết mọi người không coi đó là một vấn đề.</p>
+
+
+
+<p>DTube độc ​​lập với năm ông lớn này, vì vậy nếu việc tránh né các tập đoàn công nghệ lớn là điều bạn mong muốn, thì DTube là dành cho bạn.</p>
+
+
+
+<h2>DTube là một phần của công nghệ blockchain</h2>
+
+
+
+<p>Công nghệ blockchain đang thay đổi nghành truyền thông, giải trí và các trang web như DTube đang đi tiên phong trong những cách thức mới để chia sẻ cả nội dung sáng tạo.</p>
+
+
+
+<p>DTube chỉ là một phần nhỏ của một phong trào lớn hơn và toàn bộ cuộc cách mạng blockchain cho thấy rất ít dấu hiệu dừng lại.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fortnite Battle Royale</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/07/fortnite-battle-royale/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/07/fortnite-battle-royale/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Tue, 07 Sep 2021 08:17:40 +0000</pubDate>
+				<category><![CDATA[Trò chơi trực tuyến]]></category>
+		<category><![CDATA[bansung]]></category>
+		<category><![CDATA[fn]]></category>
+		<category><![CDATA[fornite]]></category>
+		<category><![CDATA[sinhton]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=52</guid>
+
+					<description><![CDATA[Fortnite Battle Royale (hay cuộc chiến hoàng tộc [ hay còn được gọi với cái tên là  : battle royale] ) là một trò chơi video trực tuyến battle royale miễn phí được phát triển và phát hành bởi Epic Games. Đây là một trò chơi đồng hành với Fortnite: Save the World, một trò chơi sinh tồn hợp tác với các yếu tố xây dựng. Nó ban đầu được phát hành trong lần truy cập sớm vào ngày 26 tháng 9 năm 2017, dành cho Microsoft Windows, macOS, PlayStation 4 và Xbox One, sau đó là các phiên bản cho iOS, Android và Nintendo Switch vào năm sau.]]></description>
+										<content:encoded><![CDATA[
+<h2 style="font-size:35px"><em><strong>Fortnite battle royale ?</strong></em></h2>
+
+
+
+<p><strong>Fortnite Battle Royale (hay cuộc chiến hoàng tộc [ hay còn được gọi với cái tên là &nbsp;: battle royale] )</strong>&nbsp;là một trò chơi video trực tuyến battle royale miễn phí được phát triển và phát hành bởi Epic Games. Đây là một trò chơi đồng hành với&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=Fortnite:_Save_the_World&amp;action=edit&amp;redlink=1">Fortnite: Save the World</a>, một trò chơi sinh tồn hợp tác với các yếu tố xây dựng. Nó ban đầu được phát hành trong lần truy cập sớm vào ngày 26 tháng 9 năm 2017, dành cho&nbsp;<a href="https://vi.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/MacOS">macOS</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/PlayStation_4">PlayStation 4</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Xbox_One">Xbox One</a>, sau đó là các phiên bản cho&nbsp;<a href="https://vi.wikipedia.org/wiki/IOS">iOS</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/Android_(h%E1%BB%87_%C4%91i%E1%BB%81u_h%C3%A0nh)">Android</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Nintendo_Switch">Nintendo Switch</a>&nbsp;vào năm sau.</p>
+
+
+
+<span id="more-52"></span>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/imager_1_27970_200.jpg" alt="" class="wp-image-64"/></figure></div>
+
+
+
+<p>Khái niệm của trò chơi tương tự như các trò chơi trước đây thuộc thể loại: 100 người chơi nhảy dù xuống một hòn đảo và nhặt rác để tự bảo vệ mình khỏi những người chơi khác. Người chơi có thể chiến đấu một mình (Solo), với một người chơi bổ sung (Duos) hoặc với một nhóm tối đa ba người khác (Biệt đội). Khi trận đấu diễn ra, khu vực có thể chơi trong đảo dần dần co lại, khiến người chơi ngày càng ít chỗ để làm việc. Người chơi hoặc đội cuối cùng còn sống thắng trận đấu. Sự khác biệt chính so với những người khác trong thể loại này là các yếu tố xây dựng của trò chơi, có thể mang lại lợi thế dựa trên mức độ kỹ năng và mức độ sử dụng. Battle Royale sử dụng cách tiếp cận theo mùa với các trận chiến để giới thiệu nội dung tùy biến nhân vật mới trong trò chơi, cũng như các sự kiện giới hạn thời gian, một số trong đó tương ứng với các thay đổi trên bản đồ trò chơi. Kể từ khi phát hành lần đầu, một số chế độ trò chơi khác đã được giới thiệu, bao gồm &#8220;Sân chơi&#8221;, phần nào đóng vai trò là chế độ đào tạo.</p>
+
+
+
+<p>Ý tưởng cho Battle Royale nảy sinh sau khi phát hành PlayerUn Unknown&#8217;s Battlegrounds, một trò chơi battle royale tương tự rất thành công, nhưng được ghi nhận vì những sai sót kỹ thuật. Ban đầu được phát hành như một phần của phiên bản truy cập sớm của Save the World, Epic sau đó đã chuyển trò chơi sang mô hình chơi miễn phí được tài trợ bởi các giao dịch vi mô. Sau khi nổi tiếng, Epic chia tay nhóm phát triển, với một người tập trung vào Battle Royale và nhóm kia vào Save the World.</p>
+
+
+
+<p>Battle Royale nhận được đánh giá tích cực từ các nhà phê bình, những người ca ngợi đường cong học tập, lối chơi, phong cách nghệ thuật và hệ thống tiến bộ của nó, nhưng lưu ý sự tương đồng của nó với các trò chơi trước trong thể loại này. Trò chơi nhanh chóng nổi tiếng sau khi phát hành, cuối cùng vượt qua Battlegrounds về tổng doanh thu và doanh thu của người chơi. Đến tháng 3 năm 2019, trò chơi đã được chơi bởi hơn 250 triệu người và đã tạo ra hơn 2 tỷ đô la trên toàn thế giới. Trò chơi đã trở thành một hiện tượng văn hóa, với sự quảng bá thông qua các phương tiện truyền thông xã hội và một số người nổi tiếng, bao gồm Ninja, Marshmello và Drake, góp phần vào sự phổ biến của trò chơi, đạt được lượng người xem cao kỷ lục trên các trang web phát trực tuyến trong quá trình này.</p>
+
+
+
+<h2 style="font-size:35px"><strong><em>Cách chơi</em></strong></h2>
+
+
+
+<ol style="font-size:25px"><li><strong>Bạn không thể mang tất cả các món đồ nhặt được trên đảo Spawn</strong></li></ol>
+
+
+
+<p>Mỗi nhân vật trong Fortnite chỉ có tối đa 6 ô trang bị, trừ đi trang bị mặc định là 1 chiếc rìu thì bạn còn 5 ô trang bị. Điều này làm các bạn cân nhắc là nên sử dụng những món đồ cần thiết nhất và bỏ đi nhưng thứ ko cần.</p>
+
+
+
+<p>Khi bạn sinh sản vào Đảo Spawn, bạn sẽ thấy súng, đạn dược và vật liệu xây dựng nằm rải rác xung quanh chỉ chờ được lấy. Và bạn <em>có thể</em> lấy chúng &#8211; nhưng chúng sẽ không đi cùng bạn vào bản <a href="https://www.gamesradar.com/fortnite-map/">đồ Fortnite</a>. Hãy coi Đảo Spawn như một khu vực thực hành để chơi Fortnite, mặc dù bạn có thể sẽ chỉ ở đó nhiều nhất một phút trong khi trò chơi chứa đầy 100 người chơi. Bạn có thể bắn bất cứ ai trong vùng lân cận nhưng súng sẽ không gây ra bất kỳ thiệt hại nào, hoặc nếu bạn là một người theo chủ nghĩa hòa bình tạm thời, hãy thử xây dựng một túp lều bắn tỉa nhanh chóng (chi tiết hơn về cách làm điều đó dưới đây tại điểm 8).</p>
+
+
+
+<p> </p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/fortnite-cube-paradise-palms.jpg" alt="" class="wp-image-54" width="675" height="375"/></figure></div>
+
+
+
+<ol start="2" style="font-size:25px"><li><strong>Điều khiển dù đến nơi bạn cần đến</strong></li></ol>
+
+
+
+<p>Khi bạn đang lao xuống từ Battle Bus, không có cách nào để làm cho tàu lượn của bạn triển khai sau đó vì nó tự động mở ra khi bạn đạt đến một độ cao nhất định trên mặt đất bên dưới. Đó là tất cả những gì có. Nó chỉ gấp lại khi bạn đã hạ cánh, vì vậy chỉ cần kiên nhẫn và tạo đường beeline cho cấu trúc gần nhất. Viêc bạn đến đúng nơi sẽ giúp các bạn nhặc được những trang bị cần thiết cần thiết cho trận chiến.</p>
+
+
+
+<ol start="3" style="font-size:25px"><li><strong>Uống các lọ thuốc nhỏ trước khi dán một cái lớn</strong></li></ol>
+
+
+
+<p>Xung quanh bản đồ, bạn sẽ tìm thấy cả chai nhỏ và lớn màu xanh, cung cấp cho bạn 25 lá chắn và 50 lá chắn tương ứng nếu bạn sử dụng kích hoạt bên phải để uống chúng (cùng một nút bạn sử dụng để bắn súng). Một khi bạn có 50 lá chắn trở lên, bạn không thể tiêu thụ thêm bất kỳ chai nhỏ nào nữa, vì vậy hãy chắc chắn uống chúng trước để bạn không có chúng đốt cháy một khe trong kho của bạn. Bạn có thể chug các loại thuốc lá chắn lớn bất kể lá chắn của bạn ở mức độ nào, vì vậy nếu bạn chỉ có một trong số chúng đi trước: bật nắp và nuốt nó xuống càng sớm càng tốt.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/fortnite-bottle.jpg" alt="" class="wp-image-55"/></figure></div>
+
+
+
+<ol start="4" style="font-size:25px"><li><strong>Súng trường tấn công (AR) hay Súng SMGs</strong> <strong>là vũ khí bắt đầu tốt</strong> ?</li></ol>
+
+
+
+<p>Theo nguyên tắc chung, hãy gắn bó với súng trường tấn công hoặc SMGs khi bạn lần đầu tiên tìm ra cách chơi Fortnite. Súng trường bắn tỉa là vô dụng dưới 75 mét, vì vậy mặc dù bạn sẽ muốn giữ một tiện dụng không sử dụng nó trong chiến đấu cận chiến trừ khi bạn hoàn toàn phải. Một điều khác cần lưu ý khi bạn đang tìm ra cách chơi Fortnite là nếu khi bạn bắn ai đó gần và cá nhân, bạn sẽ muốn ưu tiên shotgun của mình. Shotguns &#8211; bất ngờ bất ngờ &#8211; làm một <em>tấn</em> sát thương và tốt cho một hit giết chết, vì vậy giữ một trong tay của bạn khi bạn đang khám phá nhà cửa, tầng hầm, hoặc bất kỳ không gian nhỏ khác.</p>
+
+
+
+<ol start="5" style="font-size:25px"><li><strong>Chú ý đến thang điểm hiếm</strong></li></ol>
+
+
+
+<p>Súng màu xám là phổ biến nhất, với màu xanh lá cây, xanh dương, tím và vàng là thứ tự tăng dần của sự hiếm có. Súng vàng cực kỳ mạnh mẽ, vì vậy đừng bỏ qua chúng nếu bạn thấy chúng nằm xung quanh. Nhấn lên trên D-pad để đưa lên hàng tồn kho của bạn, và nếu bạn lơ lửng trên các khẩu súng, bạn sẽ có thể xem bao nhiêu thiệt hại họ làm nếu bạn đang gặp khó khăn trong việc quyết định giữ cái nào.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/13jldj8ewx121.jpg" alt="" class="wp-image-56" width="960" height="540"/></figure></div>
+
+
+
+<ol start="6" style="font-size:25px"><li><strong>Xây dựng vỏ bọc trước khi chữa lành</strong></li></ol>
+
+
+
+<p>Trong khi tôi đang ở trong chủ đề xây dựng,<em><strong> luôn luôn, luôn luôn, luôn luôn</strong> </em>xây dựng các bức tường xung quanh bạn trước khi bạn bắt đầu chữa lành. Cả thuốc chữa bệnh và uống khiên đều mất vài giây quý giá để tiêu thụ (tối đa 10 giây cho một bộ dụng cụ chữa bệnh lớn), trong thời gian đó bạn không thể di chuyển xung quanh, chụp hoặc làm bất cứ điều gì thực sự ngoại trừ xoay máy ảnh. Điều đó có nghĩa là bạn thực sự rất dễ bị tổn thương, vì vậy những bức tường đó sẽ ngăn chặn bất kỳ viên đạn nào kết nối với khuôn mặt của bạn. Các bức tường cũng có thể kẹp vào vách đá và đồi núi, vì vậy không cần phải tìm một mảnh đất trống.</p>
+
+
+
+<ol start="7" style="font-size:25px"><li><strong>Giữ lựu đạn, băng hoặc lá chắn thuốc trong kho của bạn</strong></li></ol>
+
+
+
+<p>Nó có giá trị có ít nhất một trong những mục trên trong thanh công cụ của bạn. Lựu đạn là một cách tuyệt vời để phá hủy một số vỏ bọc của đối thủ, đặc biệt nếu bạn nhắm đến phần thấp nhất của cấu trúc của họ. Một khi mức thấp nhất bị phá hủy, phần còn lại của nó sẽ rơi xuống, để chúng ngoài trời và sẵn sàng cho mưa đạn của bạn. Chữa bệnh thêm và khiên sẽ có ích khi bạn được lùi vào một góc nhưng chưa sẵn sàng từ bỏ, hoặc bạn có thể chia sẻ chúng với bạn cùng đội nếu họ cần một số sơ cứu sắc nét.</p>
+
+
+
+<ol start="8" style="font-size:25px"><li><strong>Có thiệt hại rơi trên ba tầng</strong></li></ol>
+
+
+
+<p>Đây không phải là Borderlands: rơi từ độ cao đáng kể (chính xác là trên ba tầng &#8211; đó là ba trong số các bức tường tiêu chuẩn ở trên kia) sẽ chiếm một phần sức khỏe của bạn, vì vậy hãy xây dựng các đoạn đường dốc xuống dưới hoặc cố gắng trượt xuống đồi hoặc vách đá.</p>
+
+
+
+<ol start="9" style="font-size:25px"><li><strong>Đừng phá hủy cây cối hoàn toàn</strong></li></ol>
+
+
+
+<p>Sử dụng cuốc của bạn để phá hủy cây là một cách thiết yếu để lấy gỗ làm vật liệu xây dựng, nhưng đừng phá hủy cây hoàn toàn. Thay vào đó, hãy dừng lại khi cây có 50 sức khỏe còn lại trên thanh của nó, vì để lại một vệt thảm thực vật bị phá hủy trong sự thức tỉnh của bạn làm cho nó cực kỳ dễ dàng cho những người chơi khác để theo dõi theo dõi của bạn và săn lùng bạn xuống.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/Zss9MGv2xzWXijx55iqW9G-970-80.jpg.webp" alt="" class="wp-image-57" width="728" height="410"/></figure></div>
+
+
+
+<ol start="10" style="font-size:25px"><li><strong>Cúi xuống giảm thiểu tiếng ồn mà bàn chân của bạn tạo ra</strong></li></ol>
+
+
+
+<p>Sneaky là như lén lút, và lén lút có thể là một cách tuyệt vời để cạnh mình đóng cửa với Battle Royale thèm muốn đó. Giữ cho mình ẩn là một phần của rắc rối, nhưng nếu bạn di chuyển trong khi cúi xuống, bạn sẽ di chuyển lặng lẽ hơn nhiều so với khi bạn chạy. Đó là một mẹo rất hữu ích nếu bạn có thể nghe thấy ai đó gần đó, bởi vì bạn có thể điều động bản thân vào một nơi ẩn náu tốt hơn trước khi họ đuổi theo bạn.</p>
+
+
+
+<ol start="11" style="font-size:25px"><li><strong>Đảm bảo rằng bạn đã chọn chế độ phù hợp từ sảnh đợi</strong></li></ol>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Fortnite-Playground-8.gif" alt="" class="wp-image-58"/></figure></div>
+
+
+
+<p>Khi bạn khởi động trò chơi, nó sẽ tự động thử và thả bạn vào một đội hình với tất cả các khe cắm được lấp đầy bởi những người chơi ngẫu nhiên. Bạn cũng có thể muốn đi một mình hoặc thả vào một bộ đôi thay thế, vì vậy chỉ cần chuyển đổi chế độ trò chơi đầu tiên. Nó sẽ nói ngay trên &#8220;Chơi!&#8221; bất cứ chế độ nào bạn đang ở.</p>
+
+
+
+<ol start="12" style="font-size:25px"><li><strong>Bạn có thể thay đổi trang phục nhân vật thông qua cửa hàng</strong></li></ol>
+
+
+
+<p>Tất cả các skin, biểu tượng biểu ngữ, tàu lượn, công cụ thu hoạch, màn hình tải, contrails, emotes, điệu nhảy, thuốc xịt và nhiều hơn nữa sống trong Locker của bạn. Bạn có thể chuyển chúng vào và ra từ đây trước mỗi trận đấu, nhưng bạn sẽ không thể thay đổi bất kỳ trận đấu nào trong trận đấu, vì vậy hãy chắc chắn rằng bạn hài lòng với vẻ ngoài và các vật dụng được trang bị trước khi bạn thả.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://localhost:7001/project/wp-content/uploads/2021/09/anh1.jpg" alt="" data-id="59" data-link="http://localhost:7001/project/?attachment_id=59" class="wp-image-59"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://localhost:7001/project/wp-content/uploads/2021/09/anh2.jpg" alt="" data-id="60" data-link="http://localhost:7001/project/?attachment_id=60" class="wp-image-60"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://localhost:7001/project/wp-content/uploads/2021/09/anh3.jpg" alt="" data-id="61" data-link="http://localhost:7001/project/?attachment_id=61" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://localhost:7001/project/wp-content/uploads/2021/09/anh4.jpg" alt="" data-id="62" data-link="http://localhost:7001/project/?attachment_id=62" class="wp-image-62"/></figure></li></ul></figure>
+
+
+
+<ol start="13" style="font-size:25px"><li><strong>Tập thói quen thu hoạch nguyên liệu khi bạn chạy</strong></li></ol>
+
+
+
+<p>Trong khi người chơi có mục tiêu tốt nhất thường sẽ đứng đầu trong một cuộc chiến, xây dựng là chìa khóa hoàn toàn để cung cấp cho mình lợi thế lớn nhất có thể. Tuy nhiên, để xây dựng, bạn cần phải có các vật liệu chỉ có thể thu được thông qua vật liệu thu hoạch. Gỗ là phổ biến nhất và bạn có thể phá hủy mọi thứ từ cây cối và bụi cây đến ghế và tủ quần áo. Kiểm tra cấu trúc nào cung cấp cho bạn nhiều vật liệu nhất sau đó thu hoạch chúng khi bạn chạy từ vị trí này sang địa điểm khác để cung cấp cho mình nguồn lực tối đa.</p>
+
+
+
+<h2 style="font-size:35px"><em><strong>Phát triển trò chơi</strong></em></h2>
+
+
+
+<p>Fortnite luôn được cập nhật, phát triển liên tục qua nhiều mùa giải khác nhau, mỗi mùa giải là sẽ có 1 cách chơi, 1 bản đồ riêng biệt. Lối chơi game rất là phong phú, sáng tạo tùy thuộc vào mỗi người chơi. Chính vị điều này mà Fortnite đang là 1 hiện tượng trong làng game batter royale. </p>
+
+
+
+<figure class="wp-block-image size-full is-style-default"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/162466211_4206450916098867_2503750139480705297_n.jpg" alt="" class="wp-image-63"/></figure>
+
+
+
+<h2 style="font-size:35px"><strong>Giải đấu hàng <em>năm</em></strong></h2>
+
+
+
+<p>Cùng với sự phát triển là những giải đấu e-sport hàng năm. Lượng người hâm hộ và các tuyển thủ đến từ mọi nơi luôn luôn tạo ra những trận chiến hấp dẫn, thu hút người xem. Người thắng sẽ nhận được 1 số tiền thưởng khổng lồ, di theo đó là sự nổi tiếng của họ. Một số những streamer đã nổi tiếng thông qua Fortnite như: Ninja, Tfue, POKIMAN, DrLupo,&#8230;. </p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/bugha-wins-fortnite-world-cup-1607423637810349793488.jpg" alt="" class="wp-image-65"/></figure></div>
+
+
+
+<p>Các ơn các bạn đã đọc bài viết. Chân thành cảm ơn!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/07/fortnite-battle-royale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PlayerUnknown&#8217;s Battlegrounds</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/06/playerunknowns-battlegrounds/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/06/playerunknowns-battlegrounds/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 06 Sep 2021 09:29:14 +0000</pubDate>
+				<category><![CDATA[Trò chơi trực tuyến]]></category>
+		<category><![CDATA[bansung]]></category>
+		<category><![CDATA[playunknownsbattlegrounds]]></category>
+		<category><![CDATA[pubg]]></category>
+		<category><![CDATA[sinhton]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=34</guid>
+
+					<description><![CDATA[PlayerUnknown's Battlegrounds (tạm dịch: Chiến trường của Kẻ Vô Danh; viết tắt: PUBG) là một trò chơi điện tử hành động, sinh tồn, nhiều người chơi trực tuyến do Krafton Inc. (được thành lập dựa trên sự hợp nhất của công ty mẹ Bluehole Studio và công ty con PUBG Corporation[1]) - tập đoàn phát triển game có trụ sở chính được đặt tại thành phố Seongnam, Hàn Quốc thiết kế, phát triển và phát hành.]]></description>
+										<content:encoded><![CDATA[
+<h2><em>PlayerUnknown&#8217;s Battlegrounds</em> ?</h2>
+
+
+
+<p><strong>PlayerUnknown&#8217;s Battlegrounds</strong> (tạm dịch: <em>Chiến trường của Kẻ Vô Danh</em>; viết tắt: <strong>PUBG</strong>) là một <a href="https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_%C4%91i%E1%BB%87n_t%E1%BB%AD">trò chơi điện tử</a><a href="https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_h%C3%A0nh_%C4%91%E1%BB%99ng">hành động</a>, sinh tồn, <a href="https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_%C4%91i%E1%BB%87n_t%E1%BB%AD_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i">nhiều người chơi trực tuyến</a> do <a href="https://vi.wikipedia.org/w/index.php?title=Krafton_Inc.&amp;action=edit&amp;redlink=1">Krafton Inc.</a> (được thành lập dựa trên sự hợp nhất của công ty mẹ Bluehole Studio và công ty con PUBG Corporation) &#8211; tập đoàn phát triển game có trụ sở chính được đặt tại thành phố <a href="https://vi.wikipedia.org/wiki/Seongnam">Seongnam</a>, <a href="https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c">Hàn Quốc</a> thiết kế, phát triển và phát hành.Trò chơi này ban đầu dựa trên các <a href="https://vi.wikipedia.org/wiki/Mod_(tr%C3%B2_ch%C6%A1i)">bản Mod</a>; trước đó đã được <a href="https://vi.wikipedia.org/w/index.php?title=Brendan_%22PlayerUnknown%22_Greene&amp;action=edit&amp;redlink=1">Brendan &#8220;PlayerUnknown&#8221; Greene</a> &#8211; nhà thiết kế trò chơi điện tử người <a href="https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland">Ireland</a> &#8211; sáng tạo, áp dụng cho nhiều trò chơi nhỏ khác nhau với cảm hứng bắt nguồn từ một bộ phim của <a href="https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n">Nhật Bản</a>; ra mắt vào năm 2000 mang tên <em><a href="https://vi.wikipedia.org/wiki/Battle_Royale_(phim)">Battle Royale</a></em>. Sau khi Greene gặp gỡ và quyết định hợp tác cùng với Bluehole, dự án PUBG tiếp tục được mở rộng thành một trò chơi độc lập hoàn chỉnh dưới sự chỉ đạo nghệ thuật của chính anh cùng với nhà sản xuất, phát triển trò chơi người Hàn Quốc Kim Chang-han &#8211; CEO đương nhiệm của Krafton.</p>
+
+
+
+<span id="more-34"></span>
+
+
+
+<p>Trong trò chơi, sẽ có tối đa 100 người chơi (bao gồm cả Bot Players &#8211; những người chơi ảo được điều khiển tự động bởi <a href="https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o">trí tuệ nhân tạo</a>) sẽ nhảy dù xuống một hòn đảo lớn. Người chơi sau đó phải nhanh chóng nhặt đồ dùng, vũ khí, phương tiện di chuyển và các trang thiết bị cần thiết để có thể sinh tồn, kết hợp với việc tiêu diệt những người chơi khác đồng thời tránh bị họ giết. Khu vực an toàn sẵn có của bản đồ sẽ thu nhỏ dần theo thời gian, đẩy những người chơi còn lại vào những khu vực hẹp hơn để ép buộc họ phải đụng độ với nhau. Người chơi cuối cùng hoặc đội 4 thành viên sống sót cuối cùng sẽ giành được chiến thắng chung cuộc.</p>
+
+
+
+<p>Phiên bản truy cập sớm cho hệ điều hành&nbsp;<a href="https://vi.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows</a>&nbsp;trên&nbsp;<a href="https://vi.wikipedia.org/wiki/Steam_(ph%E1%BA%A7n_m%E1%BB%81m)">Steam</a>&nbsp;được phát hành vào tháng 3 năm 2017 và bản đầy đủ được phát hành vào 20 tháng 12 năm 2017. Cũng trong tháng 12, trò chơi đã được&nbsp;<a href="https://vi.wikipedia.org/wiki/Microsoft_Studios">Microsoft Studios</a>&nbsp;phát hành cho&nbsp;<a href="https://vi.wikipedia.org/wiki/Xbox_One">Xbox One</a>&nbsp;qua chương trình Xbox Game Preview.</p>
+
+
+
+<p>Đến đầu năm 2018, phiên bản Steam đã bán được hơn ba mươi triệu bản và có số người chơi đồng thời cao nhất trên ba triệu, khiến cho PUBG trở thành trò chơi được chơi nhiều nhất trên Steam, trong khi phiên bản Xbox One đã bán được hơn bốn triệu bản. Trò chơi cũng được bản địa hóa và được&nbsp;<a href="https://vi.wikipedia.org/wiki/Tencent_Games">Tencent Games</a>&nbsp;phát hành ở&nbsp;<a href="https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c">Trung Quốc</a>, bao gồm hai phiên bản cho thiết bị di động khác nhau dành riêng cho quốc gia này là PUBG Mobile Timi và PUBG Mobile Lightspeed and Quantum<em>.</em></p>
+
+
+
+<p>Sau đó, vào tháng 3 năm 2018, Tencent Games và PUBG Corp đã kết hợp để cho ra mắt chính thức PUBG Mobile Lightspeed and Quantum phiên bản quốc tế (gọi tắt là <a href="https://vi.wikipedia.org/wiki/PUBG_Mobile">PUBG Mobile</a>) với năm loại máy chủ là <a href="https://vi.wikipedia.org/wiki/B%E1%BA%AFc_M%E1%BB%B9">Bắc Mỹ</a>, <a href="https://vi.wikipedia.org/wiki/Nam_M%E1%BB%B9">Nam Mỹ</a>, <a href="https://vi.wikipedia.org/wiki/Ch%C3%A2u_%C3%82u">Châu Âu</a>, <a href="https://vi.wikipedia.org/wiki/Ch%C3%A2u_%C3%81">Châu Á</a> và KR/JP (<a href="https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c">Hàn Quốc</a> và <a href="https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n">Nhật Bản</a>).</p>
+
+
+
+<p>Tiếp đó, ngày 26 tháng 11 năm 2018, PUBG Mobile phiên bản Việt Nam chính thức phát hành trên các dòng máy thuộc hệ điều hành <a href="https://vi.wikipedia.org/wiki/IOS">iOS</a> bởi <a href="https://vi.wikipedia.org/wiki/VNG">VNG</a> dưới sự hợp tác của VNG, Tencent Games và PUBG Corporation (Bluehole), và đến ngày 27 thì ra bản cho <a href="https://vi.wikipedia.org/wiki/Android_(h%E1%BB%87_%C4%91i%E1%BB%81u_h%C3%A0nh)">Android</a>. Tuy dành riêng cho thị trường Việt Nam nhưng bản này vẫn kết nối với máy chủ quốc tế.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/Cach-tang-qua-trong-Game-Pubg-cach-choi-Pubg-hay-by-tuong-com.jpg" alt="" class="wp-image-36" width="725" height="425"/><figcaption>PUBG</figcaption></figure></div>
+
+
+
+<h2>Nền tảng xây dựng</h2>
+
+
+
+<p>Nhóm phát triển chọn ba nền tảng quan trọng cho PUBG:&nbsp;<a href="https://vi.wikipedia.org/wiki/Unreal_Engine">Unreal 4</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/Amazon_Web_Services">Amazon Web Services</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Steam_(ph%E1%BA%A7n_m%E1%BB%81m)">Steam</a>. Họ sẽ phát triển game trên Unreal 4, các server sử dụng công nghệ của Amazon Web Services, và cuối cùng trò chơi được phân phối trên Steam. Việc chọn Unreal 4 giúp nhóm phát triển tiết kiệm rất nhiều thời gian và công sức bởi họ không cần phải tạo ra một engine riêng, trong khi thời gian của họ lại có hạn.</p>
+
+
+
+<p>Vào ngày 13 tháng 3 năm 2019, Brendan Greene đã rời chức vụ <a href="https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_%C4%91i%E1%BB%81u_h%C3%A0nh">giám đốc điều hành</a> phát triển của PUBG Corporation, nhưng vẫn là <a href="https://vi.wikipedia.org/w/index.php?title=Creative_director&amp;action=edit&amp;redlink=1">giám đốc sáng tạo</a>, vì bản thân anh luôn mong muốn phát triển một cái gì đó mới lạ hơn, sau đó, Greene đã từ <a href="https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c">Hàn Quốc</a> sang <a href="https://vi.wikipedia.org/wiki/H%C3%A0_Lan">Hà Lan</a>, thành lập một studio hoàn toàn mới mang tên <em>PlayerUnknown Productions</em> nhằm tiếp tục phục vụ mục đích phát triển cho các dự án game mới của riêng mình. Chức vụ giám đốc điều hành phát triển bây giờ được nhường lại cho Tae-seok Jang, người trước đó từng đảm nhận chỉ đạo mảng <a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93_h%E1%BB%8Da">đồ họa</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/cach-tai-pubg-pc-ban-quyen-bang-steam.png" alt="" class="wp-image-37" width="598" height="356"/><figcaption>PUBG ON STEAM</figcaption></figure></div>
+
+
+
+<h2>Cách chơi</h2>
+
+
+
+<p><em>PlayerUnknown’s Battlegrounds</em>&nbsp;là một trò chơi hành động trong đó tối đa một trăm người chơi chiến đấu trong một trận chiến sinh tồn, một loại trò chơi sinh tồn có quy mô lớn, nơi mà người chơi phải sinh tồn trước 99 người còn lại để trở thành người sống sót cuối cùng. Người chơi có thể chọn để chơi solo, hoặc tham gia một nhóm nhỏ tối đa bốn người. Trong cả hai trường hợp, người cuối cùng hoặc đội cuối cùng còn lại sẽ thắng trận đấu.</p>
+
+
+
+<p>Mỗi trận đấu bắt đầu với hàng loạt người chơi nhảy dù từ máy bay xuống khu vực bản đồ có diện tích khoảng 8&#215;8 km. Đường bay của máy bay trên bản đồ thay đổi theo từng vòng đấu, yêu cầu người chơi nhanh chóng xác định thời điểm tốt nhất để nhảy dù xuống mặt đất. Người chơi bắt đầu trò chơi mà không có thiết bị nào ngoại trừ việc lựa chọn quần áo, vốn không ảnh hưởng đến lối chơi. Một khi tiếp đất, người chơi có thể tìm kiếm các tòa nhà và các địa điểm khác để tìm kiếm vũ khí, xe cộ, áo giáp, quần áo và các thiết bị khác. Các vật phẩm này được phân bố theo chương trình trên bản đồ ở đầu trận đấu, với các khu vực có nguy cơ cao nhất thường có thiết bị tốt hơn. Giết một người chơi cho phép người bắn lấy toàn bộ vật phẩm trên người chơi bị giết. Người chơi có thể lựa chọn chơi theo góc nhìn thứ nhất hoặc thứ ba, mỗi góc nhìn đều có lợi thế và bất lợi riêng trong chiến đấu và nhận thức tình huống; mặc dù các cài đặt máy chủ cụ thể có thể được áp dụng để buộc tất cả người chơi sử dụng chung một góc nhìn để loại bỏ một số lợi thế.</p>
+
+
+
+<p>Cứ vài phút một lần, khu vực có thể chơi được của bản đồ bắt đầu bị thu hẹp về một vị trí ngẫu nhiên, với bất kỳ người chơi nào đang ở ngoài khu vực an toàn sẽ bị mất máu tăng dần và cuối cùng sẽ bị loại khỏi trò chơi nếu người chơi không kịp chạy tới khu vực an toàn kịp thời gian quy định; trong trò chơi, người chơi nhìn thấy ranh giới như một bức tường màu xanh lấp lánh nhỏ dần theo thời gian. Điều này khiến khu vực chơi nhỏ dần và ép buộc người chơi phải đụng độ với nhau. Trong quá trình của trận đấu, các vùng ngẫu nhiên của bản đồ được đánh dấu màu đỏ và bị đánh bom, gây ra mối đe dọa cho người chơi ở trong khu vực đó. Trong cả hai trường hợp, người chơi được cảnh báo vài phút trước khi những sự kiện này xảy ra, cho họ có thời gian di chuyển đến nơi an toàn. Một cách ngẫu nhiên, một chiếc máy bay sẽ bay qua nhiều phần khác nhau của bản đồ còn có thể chơi được và thả một gói đồ phần thưởng, chứa đựng những đồ vật thông thường không thể có được trong quá trình chơi game bình thường. Những gói đồ này phát ra khói đỏ rất rõ ràng, thu hút người chơi quan tâm ở gần nó và tạo ra thêm nhiều cuộc đụng độ. Trung bình, một lượt chơi chỉ kéo dài không quá 30 phút.</p>
+
+
+
+<p>Khi hoàn thành mỗi vòng đấu, người chơi sẽ kiếm được tiền trong trò chơi dựa trên thời gian họ sống sót bao lâu, có bao nhiêu người chơi khác đã bị họ giết, và họ đã tạo ra bao nhiêu sát thương cho những người chơi khác. Tiền tệ được sử dụng để mua các thùng chứa gồm các đồ để tuỳ biến nhân vật.</p>
+
+
+
+<h2>Vũ khí</h2>
+
+
+
+<p><em><strong>Hiện tại, PUBG có 7 chủng loại vũ khí với hơn 40 loại vũ khí khác nhau: Súng lục (Pistol), Súng tiểu liên (Sub-machine gun – SMG), Súng bắn đạn ghém (Shotgun), Súng trường tấn công (Assault Rifle – AR), Súng trường thiện xạ (Designated marksman rifle – DMR), Súng máy hạng nhẹ (Light Machine Gun &#8211; LMG) và Súng trường bắn tỉa (Sniper Rifle – SR).</strong></em></p>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Logopit_1601806405208-1024x576-1.png" alt="" class="wp-image-38 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng lục (Pistol)</strong>: có sát thương đơn mục tiêu nhỏ và tốc độ bắn khá chậm, phù hợp để chiến đấu ở tầm gần và ở giai đoạn đầu của trận đấu, khi chưa tìm được vũ khí khác. Tất cả súng lục đều dễ dàng tìm kiếm ở khắp nơi trên bản đồ, ngoại trừ Sawed-off Shotgun (Súng shotgun cưa nòng) chỉ xuất hiện ở bản đồ Miramar và Flare Gun cũng xuất hiện trên bản đồ nhưng với tỉ lệ rất hiếm.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/IMG-20210626-WA0350_copy_1600x900.jpg" alt="" class="wp-image-39 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng tiểu liên (Sub-machine gun – SMG)</strong>: có sát thương đơn mục tiêu nhỏ, nhưng bù lại có tốc độ bắn rất nhanh, có thể sốc chết kẻ địch trong phạm vi gần, tuy nhiên lại khá vô dụng khi chiến đấu ở tầm xa do chỉ thích hợp chiến đấu ở tầm gần. SMG rất thích hợp khi chiến đấu ở khu vực có nhiều nhà liền kề nhau, tuy nhiên do tốc độ xả đạn nhanh nên cũng rất nhanh hết đạn, vì vậy hãy cố gắng kiểm soát lượng đạn mà mình bắn ra. Tất cả dòng SMG đều có thể dễ dàng tìm kiếm ở mọi nơi trên bản đồ, ngoại trừ súng tiểu liên MP5K là vũ khí độc quyền trong map Vikendi.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Logopit_1601630379914-1024x576-1.png" alt="" class="wp-image-40 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng bắn đạn ghém (Shotgun)</strong>: Tương tự như SMG, ngoại trừ có tốc độ bắn chậm hơn SMG và lượng đạn ít hơn. Shotgun có thể sốc chết một kẻ địch ở tầm gần và thậm chí có thể hạ gục kẻ địch đang có trang bị cấp 3 đầy đủ chỉ bằng 1 viên đạn nếu bắn chính xác. Nhược điểm là vô dụng ở tầm xa (ngoài 80m) và lượng đạn khá hạn chế. Các dòng shotgun có thể dễ dàng tìm kiếm khắp mọi nơi ở trên bản đồ, ngoại trừ súng shotgun DBS là vũ khí shotgun duy nhất nằm trong hòm airdrop ở bản cập nhật 4.3. Tuy nhiên, bản cập nhật 6.3 của PUBG cũng đã chính thức đưa shotgun DBS ra khỏi hòm airdrop và xuất hiện ở bản đồ với tỉ lệ hiếm.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/pubg-mobile-smg-vs-assault-rifle-2.jpg" alt="" class="wp-image-41 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng trường tấn công (Assault Rifle – AR)</strong>: Sát thương cơ bản ở mức trung bình, tốc độ bắn cao cộng với lượng đạn dồi dào và có thể gắn nhiều phụ kiện khiến dòng AR được sử dụng nhiều nhất ở các trận đấu PUBG. M16A4 và MK47 Mutant là hai vũ khí AR không có chức năng bắn liên thanh mà chỉ có chức năng bắn loạt (burst). Các dòng súng AR cũng khá dễ tìm kiếm ở khắp nơi trên bản đồ, ngoại trừ Groza và AUG-A3 là hai vũ khí nằm trong hòm airdrop, QBZ là vũ khí độc quyền ở map Sanhok và G36C là vũ khí độc quyền ở map Vikendi.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/bolt-action-vs-dmr-sung-truong-nao-tot-hon-trong-pubg-mobile.jpg" alt="" class="wp-image-42 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng trường thiện xạ (Designated marksman rifle – DMR)</strong>: Là vũ khí được các game thủ tin tưởng chọn làm vũ khí thứ 2 trong balo sau dòng súng AR. Sát thương đơn mục tiêu khá tốt, khả năng bắn xa ngang ngửa SR, có thể lắp thêm phụ kiện khiến cho game thủ rất tin dùng dòng súng này. Nhược điểm là độ giật khá cao và lượng đạn khá ít khi chưa có phụ kiện. Các dòng súng DMR xuất hiện trên bản đồ với tỉ lệ khá thấp, ngoại trừ MK14EBR là vũ khí nằm trong airdrop và QBU là vũ khí độc quyền ở map Sanhok.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/all-lmg-wallpaper.jpg" alt="" class="wp-image-43 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng máy hạng nhẹ (Light Machine Gun – LMG)</strong>: Có lượng đạn dồi dào nhất trong tất cả các dòng súng. Tuy nhiên, nhược điểm của nó là khá nặng và thời gian thay đạn khá lâu, nên thường được sử dụng khi team cần 1 người hỗ trợ hoả lực hoặc khi solo squad. Dòng LMG chỉ có DP – 28 là xuất hiện ở bản đồ nhưng với tỉ lệ không cao. M249 trước đây ở trong hòm airdrop, tuy nhiên, với bản cập nhật 6.3, M249 đã chính thức đưa ra khỏi hòm thính và thay vào đó là súng máy MG3 sẽ ở trong hòm airdrop ở bản cập nhật 8.3.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Logopit_1601014556885-1.png" alt="" class="wp-image-44 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><strong>Súng trường bắn tỉa (Sniper Rifle – SR)</strong>: Có sát thương đơn mục tiêu rất lớn, có khả năng hạ gục kẻ địch với 1 phát vào đầu là những lí do giúp SR chiếm được 1 slot chính trong balo của game thủ. Nhược điểm là lượng đạn khá hạn chế, thời gian lên đạn lâu và thay đạn khá lâu. Các dòng SR xuất hiện trên bản đồ với tỉ lệ khá thấp, ngoại trừ AWM và Lynx AMR, 1 khẩu súng với chỉ 5 viên đạn mặc định trong súng, là vũ khí nằm trong hòm airdrop và Winchester 1894 là vũ khí độc quyền nằm trong map Miramar (người viết vẫn chưa hiểu vì sao Win94 lại được xếp vào dòng SR?)</p>
+</div></div>
+
+
+
+<p><strong>Lựu đạn (Grenades):</strong> Bao gồm các loại Frag Grenade (lựu đạn nổ), Smoke Grenade (lựu đạn khói), Molotov (bom xăng), Stun Grenade (lựu đạn choáng), Sticky Bomb (bom dính &#8211; xuất hiện trong map Karakin), Decoy Grenade.</p>
+
+
+
+<p><strong>Vũ khí cận chiến (Melee Weapon)</strong>: thường sẽ là lựa chọn cuối cùng của game thủ khi xung quanh không có gì và trong tay chỉ có vũ khí cận chiến, thường ở giai đoạn đầu trận đấu. Bảng dưới đây là thông số sát thương của từng loại.</p>
+
+
+
+<h2>Phương tiện di chuyển</h2>
+
+
+
+<p>Ngoài vũ khí ra, PUBG cũng đem đến cho người chơi một lượng phương tiện di chuyển rất đa dạng. Hiện tại trong PUBG có các loại phương tiện sau:</p>
+
+
+
+<ol><li>Xe Buggy (2 chỗ ngồi).</li><li>Xe UAZ (4 chỗ ngồi), có 3 biến thể là mui trần, mui kín và mui bọc dù.</li><li>Xe Dacia 1300 (4 chỗ ngồi).</li><li>Xe Moto (2 chỗ ngồi).</li><li>Xe Moto &#8220;Motorcycle w/ sidecar&#8221; (3 chỗ ngồi)</li><li>Xe Mirado (4 chỗ ngồi), có 2 biến thể mui trần và mui kín.</li><li>Xe bán tải Pick-up (4 chỗ ngồi), có 2 biến thể Closed Top và Open Top.</li><li>Xe Mini-van (6 chỗ ngồi).</li><li>Xe Scooter (2 chỗ ngồi).</li><li>Xe bán tải Rony (4 chỗ ngồi).</li><li>Xe Zima (4 chỗ ngồi).</li><li>Xe Tukshai (3 chỗ ngồi).</li><li>Xe trượt tuyết (2 chỗ ngồi).</li><li>Thuyền PG-117 (4 chỗ ngồi).</li><li>Mô tô nước &#8220;Aquarail&#8221; (2 chỗ ngồi).</li><li>Xe bay Motor Glider (2 chỗ ngồi).</li><li>BRDM-2 (4 chỗ ngồi), chỉ xuất hiện khi bắn Flare Gun ở ngoài khu vực an toàn.</li><li>Xe Coupe RB (2 chỗ ngồi).</li><li>Xe Pony Coupe (4 chỗ ngồi).</li></ol>
+
+
+
+<h2>Phát hành</h2>
+
+
+
+<ul><li>Windows</li></ul>
+
+
+
+<p>Bluehole sử dụng khoảng thời gian alpha và beta khép kín với khoảng 80.000 người chơi, bao gồm cả các streamer phổ biến, để đánh giá phản ứng ban đầu cho gameplay và điều chỉnh cân bằng trước khi phát hành rộng rãi hơn. Giai đoạn Early Access &#8211; truy cập sớm trên Steam bắt đầu vào tháng 3 năm 2017 cho phiên bản Windows. Thời kỳ truy cập sớm này dự kiến ​​sẽ kéo dài khoảng sáu tháng, ban đầu nhằm vào một thời điểm phát hành tháng 9 năm 2017. Vào tháng 7 năm 2017, Greene thông báo rằng họ sẽ cần phải kéo dài thời gian truy cập sớm hơn vài tháng, tiếp tục phát hành bản cập nhật thường xuyên, với kế hoạch sẽ vẫn được phát hành vào cuối năm 2017, vì cam kết với thời kỳ ban đầu này <em>&#8220;có thể cản trở chúng tôi khó cung cấp một trò chơi đầy đủ tính năng hoặc dẫn đến thất vọng trong cộng đồng nếu thời hạn khởi động không được đáp ứng&#8221;</em>. Ban đầu, Bluehole đã mong đợi rằng họ sẽ có được đủ số người chơi thông qua việc truy cập sớm để làm mượt lối chơi, và chỉ khi trò chơi hoàn thiện thực sự, thì họ sẽ bắt đầu tiếp thị cho nó. Sự quan tâm bất ngờ đối với trò chơi trong thời gian truy cập sớm đã vượt quá mong đợi của công ty, và công ty đã tập trung vào sự ổn định của trò chơi, kết nối mạng của nó cùng với việc cải tiến lối chơi.</p>
+
+
+
+<p>Khi trò chơi thành công trong giai đoạn truy cập sớm, <a href="https://vi.wikipedia.org/wiki/Tencent_Games">Tencent Games</a>, nhà xuất bản trò chơi điện tử lớn nhất Trung Quốc, đã tiếp cận Bluehole trong cùng tháng với một đề xuất phát hành <em>Battlegrounds</em> ở <a href="https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c">Trung Quốc</a> và mua <a href="https://vi.wikipedia.org/wiki/C%E1%BB%95_ph%E1%BA%A7n">cổ phần</a> của công ty. Tuy nhiên, Hiệp hội Phát hành Kỹ thuật số Trung Quốc đã đưa ra một tuyên bố vào tháng 10 năm 2017 với hạn chế dành cho những trò chơi theo phong cách chiến đấu hoàng gia, nói rằng chúng quá bạo lực và đi chệch khỏi các giá trị của <a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_x%C3%A3_h%E1%BB%99i_%C4%91%E1%BA%B7c_s%E1%BA%AFc_Trung_Qu%E1%BB%91c">chủ nghĩa xã hội của Trung Quốc</a>, coi những trò chơi này là nguy hại cho người dùng trẻ tuổi. Tuy nhiên, trong tháng sau đó, PUBG đã đạt được một thỏa thuận chính thức với <a href="https://vi.wikipedia.org/wiki/Ch%C3%ADnh_ph%E1%BB%A7_Trung_Qu%E1%BB%91c">chính phủ Trung Quốc</a> để được phép phát hành trò chơi tại nước này, với Tencent là đối tác phát hành. Tuy nhiên, một số thay đổi trong trò chơi đã được thực hiện để đảm bảo PUBG phù hợp với các giá trị <a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_x%C3%A3_h%E1%BB%99i_%C4%91%E1%BA%B7c_s%E1%BA%AFc_Trung_Qu%E1%BB%91c">xã hội chủ nghĩa và đạo đức Trung Quốc truyền thống</a>.</p>
+
+
+
+<h2>XBox One</h2>
+
+
+
+<p>Bluehole đã lên kế hoạch chuyển trò chơi sang nền tảng console, mà sẽ được phát hành sau khi hoàn thành bản trên <a href="https://vi.wikipedia.org/wiki/Microsoft_Windows">Windows</a>, và công ty đã có một đội làm việc chuyển Battlegrounds sang <a href="https://vi.wikipedia.org/wiki/Xbox_One">Xbox One</a><sup><a href="https://vi.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds#cite_note-bi_may2017-36">[35]</a></sup>. Greene trong cuộc họp báo của <a href="https://vi.wikipedia.org/wiki/Microsoft">Microsoft</a> trong Triển lãm Giải trí Điện tử 2017 đã thông báo rằng Battlegrounds sẽ xuất hiện trên Xbox One như là một trò chơi giới hạn thời gian độc quyền vào khoảng cuối năm 2017, bằng cách sử dụng cách tiếp cận truy cập sớm trên Xbox Game Preview để thử nghiệm nó.</p>
+
+
+
+<p><em>Các ơn các bạn đã đọc bài viết này. Xin chân thành cảm ơn!</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/06/playerunknowns-battlegrounds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>League of Legend</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/06/league-of-legend/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/06/league-of-legend/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 06 Sep 2021 08:49:16 +0000</pubDate>
+				<category><![CDATA[Trò chơi trực tuyến]]></category>
+		<category><![CDATA[leagueoflegend]]></category>
+		<category><![CDATA[lienminhhuyenthoai]]></category>
+		<category><![CDATA[lol]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=24</guid>
+
+					<description><![CDATA[Liên Minh Huyền Thoại (tiếng Anh: League of Legends, viết tắt: LMHT hoặc LoL) là một trò chơi video thể loại đấu trường trận chiến trực tuyến nhiều người chơi (MOBA - Multiplayer Online Battlefield Arena) được Riot Games phát triển và phát hành trên nền tảng Windows và MacOS, lấy cảm hứng từ bản mod Defense of the Ancients cho trò chơi video Warcraft III: Frozen Throne.]]></description>
+										<content:encoded><![CDATA[
+<h2>League of Legend là gì ?</h2>
+
+
+
+<p><strong>Liên Minh Huyền Thoại</strong>&nbsp;(<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh">tiếng Anh</a>:&nbsp;<em><strong>League of Legends</strong></em>, viết tắt:&nbsp;<em><strong>LMHT</strong>&nbsp;hoặc&nbsp;<strong>LoL</strong></em>) là một&nbsp;<a href="https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_video">trò chơi video</a>&nbsp;thể loại&nbsp;<a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_tr%E1%BA%ADn_chi%E1%BA%BFn_tr%E1%BB%B1c_tuy%E1%BA%BFn_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i">đấu trường trận chiến trực tuyến nhiều người chơi</a>&nbsp;(<a href="https://vi.wikipedia.org/wiki/MOBA">MOBA</a>&nbsp;&#8211; Multiplayer Online Battlefield Arena) được&nbsp;<a href="https://vi.wikipedia.org/wiki/Riot_Games">Riot Games</a>&nbsp;phát triển và phát hành trên nền tảng&nbsp;<a href="https://vi.wikipedia.org/wiki/Windows">Windows</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/MacOS">MacOS</a>, lấy cảm hứng từ bản mod&nbsp;<em><a href="https://vi.wikipedia.org/wiki/Defense_of_the_Ancients">Defense of the Ancients</a></em>&nbsp;cho trò chơi video&nbsp;<em><a href="https://vi.wikipedia.org/wiki/Warcraft_III:_Frozen_Throne">Warcraft III: Frozen Throne</a></em>. Nó là một&nbsp;<a href="https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_nh%E1%BA%ADp_vai">trò chơi</a>&nbsp;được chơi miễn phí và được hỗ trợ bởi các vi giao dịch (micro-transaction). Trò chơi được công bố đầu tiên vào ngày&nbsp;<a href="https://vi.wikipedia.org/wiki/7_th%C3%A1ng_10">7 tháng 10</a>&nbsp;năm&nbsp;<a href="https://vi.wikipedia.org/wiki/2008">2008</a>&nbsp;và phát hành vào ngày 27 tháng 10 năm 2009.&nbsp;Kể từ khi phát hành, Liên Minh Huyền Thoại được đón nhận rất tích cực, và trở nên phổ biến trong những năm sau đó. Theo một bài báo của&nbsp;<em><a href="https://vi.wikipedia.org/wiki/Forbes">Forbes</a></em>&nbsp;năm 2012, Liên Minh Huyền Thoại là trò chơi máy tính được chơi nhiều nhất ở&nbsp;<a href="https://vi.wikipedia.org/wiki/B%E1%BA%AFc_M%E1%BB%B9">Bắc Mỹ</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Ch%C3%A2u_%C3%82u">Châu Âu</a>&nbsp;về số giờ chơi. Đến tháng 1 năm 2014, có 67 triệu người chơi Liên Minh Huyền Thoại mỗi tháng, 27 triệu người mỗi ngày, và hơn 7,5 triệu người cùng lúc trong những thời điểm cao nhất. Đây được coi là một trong những tựa game thành công nhất mọi thời đại. Tháng 9 năm 2016, ước tính có hơn 100 triệu người chơi mỗi tháng.</p>
+
+
+
+<span id="more-24"></span>
+
+
+
+<p>Liên Minh Huyền Thoại đã trở nên phổ biến và xây dựng được những môi trường thi đấu cạnh tranh cao. Riot Games tổ chức những giải đấu theo khu vực. Những giải đấu vùng này chọn ra những đội tuyển xuất sắc nhất các khu vực để tham dự&nbsp;<a href="https://vi.wikipedia.org/wiki/Mid-Season_Invitational">Mid-Season Invitational</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_th%E1%BA%BF_gi%E1%BB%9Bi_Li%C3%AAn_Minh_Huy%E1%BB%81n_Tho%E1%BA%A1i">Giải vô địch thế giới</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/riot.png" alt="Logo Riot Games" class="wp-image-26" width="563" height="243"/><figcaption>Logo Riot Games</figcaption></figure></div>
+
+
+
+<p>Vào ngày 16 tháng 10 năm 2019, nhân kỉ niệm 10 năm tuổi của Liên Minh Huyền Thoại, Riot Games thông báo sẽ có một phiên bản rút gọn của trò chơi với tên gọi là&nbsp;<em><a href="https://vi.wikipedia.org/wiki/Li%C3%AAn_Minh_Huy%E1%BB%81n_Tho%E1%BA%A1i:_T%E1%BB%91c_Chi%E1%BA%BFn">Liên Minh Huyền Thoại: Tốc Chiến</a></em>&nbsp;(<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh">tiếng Anh</a>:&nbsp;<em>League of Legends: Wild Rift</em>) sẽ được phát hành trên nền tảng&nbsp;<a href="https://vi.wikipedia.org/wiki/Video_game_console">Console</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Mobile">Mobile</a>&nbsp;(hệ điều hành&nbsp;<a href="https://vi.wikipedia.org/wiki/Android_(h%E1%BB%87_%C4%91i%E1%BB%81u_h%C3%A0nh)">Android</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/IOS">IOS</a>) vào đầu năm 2020. Bên cạnh đó là các trò chơi dựa theo LMHT như&nbsp;<em><a href="https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_Tho%E1%BA%A1i_Runeterra">Huyền Thoại Runeterra</a></em>&nbsp;(<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh">tiếng Anh</a>:&nbsp;<em>Legends of Runeterra</em>), chế độ chơi&nbsp;<em><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_Tr%C6%B0%E1%BB%9Dng_Ch%C3%A2n_L%C3%BD">Đấu Trường Chân Lý</a></em>&nbsp;(<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh">tiếng Anh</a>:&nbsp;<em>Teamfight Tactics</em>, chơi đa nền tảng với&nbsp;<a href="https://vi.wikipedia.org/wiki/PC">PC</a>&nbsp;trừ máy chủ&nbsp;<a href="https://vi.wikipedia.org/wiki/Garena">Garena</a>) cũng sẽ được phát hành trên&nbsp;<a href="https://vi.wikipedia.org/wiki/Mobile">Mobile</a>, cùng các dự án về hoạt hình.</p>
+
+
+
+<h2>Cách chơi ?</h2>
+
+
+
+<p>Liên Minh Huyền Thoại là một trò chơi đấu trường trận chiến trực tuyến nhiều người chơi (MOBA) mà người chơi có thể điều khiển một &#8220;Tướng&#8221; (<em>Champion</em>) để đối đầu với một đội những người chơi khác hoặc các trận đấu với máy.&nbsp;Tính đến tháng 4 năm 2021, có tổng cộng 155 vị tướng khác nhau được phân loại theo vai trò là sát thủ, đấu sĩ, đỡ đòn, xạ thủ,pháp sư hay hỗ trợ.</p>
+
+
+
+<p>Người chơi lên cấp độ bằng cách hạ gục các tướng của phe địch được điều khiển bởi người chơi khác hoặc đối thủ máy, cũng như các quân lính liên tục xuất hiện trong trò chơi, hay tấn công trụ của phe địch. Trong chế độ chơi truyền thống, bản đồ được chia ra thành ba đường chính là đường đi của quân lính; khu rừng là khoảng giữa các đường, nơi có các bãi quái rừng; và khu vực nhà chính nơi người chơi xuất hiện và mua trang bị. Các đường chính bao gồm đường trên, đường giữa và đường dưới, phù hợp với các kiểu tướng nhất định. Đôi khi khu rừng cũng được coi là một đường (đường rừng), với những người chơi tướng đi rừng sẽ rảo quanh các bãi quái rừng để thu thập các bùa lợi và hỗ trợ cho các đường chính khác. Người chơi nhận được một lượng tiền nhỏ theo thời gian, và có thể kiếm nhiều tiền hơn từ việc giết quân lính địch bằng đòn đánh kết liễu, phá hủy trụ địch, giết quái vật rừng cũng như giết tướng địch, hỗ trợ đồng đội giết tướng địch và phá trụ. Với số tiền này, người chơi mua các trang bị cho tướng của mình để các tướng mạnh mẽ hơn trong suốt trận đấu. Trong các chế độ chơi vĩnh viễn như Truyền thống, Cướp Cờ (đã đóng) và ARAM, trò chơi kết thúc khi một đội phá hủy được nhà chính của đội kia, hoặc là đội kia đầu hàng. Các bản đồ khác nhau có luật chơi và mục tiêu khác nhau, chẳng hạn nhà chính ở Crystal Scar sẽ mất máu nếu đội đối phương kiểm soát ít nhất 3 trong 5 trụ quanh bản đồ. Tuy nhiên, chế độ Cướp cờ đi theo bản đồ này đã bị đóng lại vĩnh viễn vào ngày 22/2/2016 với lý do các tướng trong chế độ chơi này bị mất cân bằng quá lớn về kĩ năng lẫn các chỉ số và lối chơi.&nbsp;Hơn nữa, hầu như không có ai chơi chế độ này &#8211; chỉ 0,5% trong tổng số hơn 40 triệu người chơi trên toàn thế giới chơi nó. Bản đồ The Crystal Scar vẫn được hoạt động để phục vụ chế độ chơi đặc biệt Thăng Hoa.</p>
+
+
+
+<p>Cửa hàng của trò chơi Liên Minh Huyền Thoại cho phép người chơi mua vật dụng bằng &#8220;RP&#8221; (Riot Points) và &#8220;Tinh hoa Lam&#8221; (THL,&nbsp;<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh">tiếng Anh</a>:&nbsp;<em>Blue Essence</em>). RP phải mua bằng tiền thật, còn THL kiếm được sau khi lên cấp hoặc phân mảnh tướng trong Chế tạo Hextech hay nhận được trong sự kiện.</p>
+
+
+
+<p>Người chơi được coi là một &#8220;Triệu hồi sư&#8221; (<em>Summoner</em>) và giữ vai trò lâu dài trong suốt trò chơi. Các thống kê và điểm số của người chơi được lưu giữ và có thể xem được. Người chơi nhận được điểm kinh nghiệm sau mỗi trận đấu họ tham gia. Trò chơi không giới hạn cấp độ người chơi có thể đạt được. Người chơi có thể kiếm điểm kinh nghiệm và thăng cấp, mỗi một cấp tăng lên người chơi nhận được phần thưởng là Tinh hoa Lam, mảnh Tướng và được sử dụng trong cửa hàng cũng như Chế Tạo Báu vật.</p>
+
+
+
+<p>Liên Minh Huyền Thoại có một Hệ thống trước-trận được gọi là &#8220;Ngọc Tái Tổ Hợp&#8221; (<em>Runes</em>) được sử dụng bắt đầu từ mùa giải xếp hạng thứ 8. Hệ thống này giúp cho người chơi khám phá cũng như trải nghiệm, luyện tập các lối chơi và khả năng khắc chế, gây sát thương khác nhau từ cùng một vị tướng, một bộ kĩ năng. Người chơi có thể chọn bảng ngọc gồm hai hệ Chính và Phụ, mỗi hệ có thể chọn trong 5 hệ là Kiên Định, Cảm Hứng, Áp Đảo, Pháp Thuật và Chuẩn Xác. Sau khi chọn hệ chính, người chơi có thể chọn 1 trong 3 (hoặc 4) ngọc Siêu Cấp của hệ chính đó, tiếp theo chọn 3 trong 9 ngọc phụ của hệ, với ba nhánh khác nhau. Sau khi thiết lập hệ chính, người chơi có thể chọn 1 hệ phụ trong 4 hệ còn lại và chọn 2 trong 9 ngọc phụ của hệ phụ đó. Kết hợp hai hệ người chơi còn có thêm thuộc tính thưởng thêm phụ thuộc vào hệ chính. Ngoài ra, mỗi một bảng Ngọc Tái Tổ Hợp còn có thêm Mảnh ngọc Chỉ số tại phần dưới của hệ ngọc phụ, giúp tướng có thêm một vài chỉ số khác nhau theo thời gian trận đấu và cấp độ.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/Smnrlol.png" alt="" class="wp-image-27"/><figcaption>Vị trí mỗi đường </figcaption></figure></div>
+
+
+
+<h2 style="font-size:35px"><em>Tiêu đề</em></h2>
+
+
+
+<p><strong>Liên Minh Huyền Thoại</strong>&nbsp;là một trò chơi đấu trường chiến đấu trực tuyến (MOBA) nhiều người chơi, trong đó người chơi điều khiển một nhân vật (&#8220;Triệu hồi sư&#8221;) với một loạt các khả năng độc đáo từ góc nhìn đẳng hướng hoặc từ trên xuống. Trong suốt một trận đấu, các Tướng tăng cấp bằng cách nhận được điểm kinh nghiệm (XP) thông qua việc tiêu diệt những kẻ thù không phải người chơi được gọi là lính. Các vật phẩm cũng giúp tăng sức mạnh của tướng và được mua bằng vàng kiếm được khi giết lính hoặc phá hủy các công trình của đối phương.Trong chế độ chơi chính, Summoner&#8217;s Rift, các vật phẩm được mua thông qua menu cửa hàng chỉ dành cho người chơi khi tướng của họ ở trong căn cứ của đội. Mỗi trận đấu đều rời rạc; cấp độ và vật phẩm không chuyển từ trận đấu này sang trận đấu khác.</p>
+
+
+
+<ul style="font-size:25px"><li><strong>Summoner&#8217;s Rift</strong></li></ul>
+
+
+
+<p>Summoner&#8217;s Rift là chế độ chơi hàng đầu của Liên Minh Huyền Thoại và là chế độ chơi nổi bật nhất ở cấp độ chuyên nghiệp. Chế độ có một bậc thang cạnh tranh được xếp hạng; hệ thống tìm trận xác định cấp độ kỹ năng của người chơi và tạo ra thứ hạng bắt đầu để họ có thể leo lên. Có chín bậc hạng, thấp nhất là Sắt, Đồng và Bạc, và cao nhất là Cao thủ, Đại Cao thủ và Thách đấu.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/Summoner27s_Rift_Update_Map.png" alt="" class="wp-image-28" width="500" height="356"/><figcaption>Bản đồ Summoner&#8217;s Rift</figcaption></figure></div>
+
+
+
+<ul style="font-size:25px"><li><strong>Aram</strong></li></ul>
+
+
+
+<p>là một chế độ năm đấu năm giống như Summoner&#8217;s Rift, nhưng chỉ có một làn đường dài, không có khu vực rừng và với những vị tướng được chọn ngẫu nhiên cho người chơi. Với kích thước nhỏ của bản đồ, người chơi phải thận trọng trong việc tránh các khả năng của kẻ thù.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/a1-498b9.jpg" alt="" class="wp-image-29"/><figcaption>Bản đồ Aram</figcaption></figure></div>
+
+
+
+<ul style="font-size:25px"><li><strong>Đấu trường chân lý</strong></li></ul>
+
+
+
+<p>Đấu Trường Chân Lý là một game chiến đấu tự động được phát hành vào tháng 6 năm 2020. Giống như những người khác trong thể loại của nó, người chơi xây dựng một đội và chiến đấu để trở thành người cuối cùng đứng. Người chơi không ảnh hưởng trực tiếp đến chiến đấu, nhưng đặt các đơn vị của họ trên bàn cờ để họ tự động chiến đấu chống lại đối thủ mỗi hiệp. ĐTCL có sẵn cho hệ điều hành di động iOS và Android, đồng thời có khả năng chơi đa nền tảng với các ứng dụng khách Windows và macOS.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/top-6-doi-hinh-manh-trong-dau-truong-chan-ly-lien-minh-huyen-thoai-part-3-6.jpg" alt="" class="wp-image-30" width="600" height="338"/><figcaption>Đấu trường chân lý</figcaption></figure></div>
+
+
+
+<ul><li>Các chế độ luân phiên thường xuyên được mở đi kèm với các sự kiện nhằm quảng bá dòng trang phục mới. Các chế độ chơi Luân phiên phổ biến như Ultra Rapid Fire, Một Cho Tất Cả, Đột Kích Nhà Chính&#8230;.</li></ul>
+
+
+
+<h2 style="font-size:35px"><em><strong>Phát triển</strong></em></h2>
+
+
+
+<p>Nhà phát triển của trò chơi, Riot Games, được đồng sáng lập bởi Brandon &#8220;Ryze&#8221; Beck và Marc &#8220;Tryndamere&#8221; Merrill, những người bạn cùng phòng khi họ theo học Đại học Nam California. Họ hợp tác với Steve &#8220;Guinsoo&#8221; Feak, nhà thiết kế trước đây của Warcraft III: Bản đồ tùy chỉnh Frozen Throne Defense of the Ancient, và Steve &#8220;Pendragon&#8221; Mescon, quản trị viên của cơ sở hỗ trợ chính thức trước đây cho bản đồ, để phát triển Liên minh huyền thoại.</p>
+
+
+
+<p>Cảm hứng ban đầu cho &#8220;Dota&#8221; là bản mod năm 1998 cho StarCraft được tạo bởi thành viên cộng đồng Aeon64 có tên là &#8220;Aeon of Strife&#8221;.<sup><a href="https://vi.wikipedia.org/wiki/Li%C3%AAn_Minh_Huy%E1%BB%81n_Tho%E1%BA%A1i#cite_note-14">[14]</a></sup>&nbsp;Sau khi phát hành Warcraft III: Reign of Chaos và World Editor tiếp theo của nó vào năm 2002, DotA đã được tạo ra bởi một modder khác, Eul. Ông đã chuyển và mở rộng bản mod &#8220;Aeon of Strife&#8221; sang động cơ mới và đặt tên là &#8220;Defense of the Ancient&#8221;. Guinsoo sau đó đã tạo ra DotA Allstars bằng cách chèn hỗn hợp nội dung của riêng mình vào &#8220;DotA&#8221;, mở rộng đáng kể số lượng anh hùng, thêm công thức và vật phẩm, và giới thiệu nhiều thay đổi về lối chơi. Guinsoo sau đó đã chuyển mod cho IceFrog sau khi chấp nhận một công việc tại Riot Games mới thành lập.</p>
+
+
+
+<p>Riot Games chính thức mở văn phòng vào tháng 9 năm 2006 và tính đến năm 2013, có hơn 1.000 người làm việc trong Liên minh huyền thoại. Theo Marc Merrill, khi tạo ra các tướng khác nhau trong trò chơi, thay vì chỉ giao nhiệm vụ cho một số ít người, họ đã quyết định mở quy trình tạo tướng cho mọi người trong công ty. Các tướng được bình chọn sẽ được đưa vào trò chơi.</p>
+
+
+
+<p>&#8216;Liên Minh Huyền Thoại&#8217; được công bố lần đầu tiên vào ngày 7 tháng 10 năm 2008. Đây là phiên bản closed beta từ ngày 10 tháng 4 năm 2009 đến ngày 22 tháng 10 năm 2009. Sau đó, nó chuyển sang phiên bản open beta cho đến khi phát hành.</p>
+
+
+
+<p>Vào ngày 16 tháng 10 năm 2019, nhân ngày sinh nhật 10 năm tuổi của Liên Minh Huyền Thoại, Riot Games thông báo sẽ có một phiên bản mobile rút gọn của trò chơi với tên là gọi là Liên Minh Huyền Thoại: Tốc Chiến.</p>
+
+
+
+<h2 style="font-size:35px"><em>Các giải đấu hàng năm</em></h2>
+
+
+
+<p>Song song với việc phát triển và nâng cấp trò chơi là những giải đấu hàng năm thu hút hàng triệu lượt theo dõi trên khắp thế giới.</p>
+
+
+
+<ul style="font-size:25px"><li><strong>Giải vô địch thế giới Liên Minh Huyền Thoại</strong></li></ul>
+
+
+
+<p><strong><a href="https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_th%E1%BA%BF_gi%E1%BB%9Bi_Li%C3%AAn_Minh_Huy%E1%BB%81n_Tho%E1%BA%A1i">Giải vô địch thế giới Liên Minh Huyền Thoại</a></strong>&nbsp;(<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh">tiếng Anh</a>:&nbsp;<em>League of Legends World Championship</em>) là giải đấu lớn nhất trong năm của bộ môn thể thao điện tử Liên Minh Huyền Thoại được tổ chức hàng năm bởi&nbsp;<a href="https://vi.wikipedia.org/wiki/Riot_Games">Riot Games</a>. Tất cả các đội hàng đầu đến từ nhiều khu vực tham gia để cạnh tranh cho danh hiệu vô địch này cùng với số tiền thưởng rất lớn.</p>
+
+
+
+<p>Giải vô địch thế giới Liên Minh Huyền Thoại là giải đấu rất thành công và nó là một trong những giải đấu danh giá, giải đấu thể thao điện tử được xem nhiều nhất trên thế giới.</p>
+
+
+
+<ul style="font-size:25px"><li>Giao hữu quốc tế giữa mùa</li></ul>
+
+
+
+<p><strong>Mid-Season Invitational</strong>, là giải đấu Liên Minh Huyền Thoại lớn thứ hai thế giới trong năm, giải được tổ chức bởi Riot Games, xen giữa 2 mùa giải xuân và hè từ năm 2015. Đây là giải đấu giữa các nhà vô địch của các khu vực trong mùa xuân.</p>
+
+
+
+<ul style="font-size:25px"><li>Rift Rivals</li></ul>
+
+
+
+<p><strong>Rift Rivals</strong>&nbsp;hay&nbsp;<strong>Khu vực đại chiến</strong>&nbsp;là giải đấu giữa các khu vực nhằm tìm ra khu vực mạnh nhất trong các khu vực được phân nhóm bởi Riot Games.</p>
+
+
+
+<ul style="font-size:25px"><li>Siêu sao đại chiến (All-Star Event)</li></ul>
+
+
+
+<p><strong>Siêu sao đại chiến</strong>&nbsp;là một giải đấu quốc tế thường niên được tổ chức bởi Riot Games là sự kiện thi đấu giữa các tuyển thủ chuyên nghiệp, các streamer nổi tiếng được bầu chọn bởi người hâm mộ.</p>
+
+
+
+<ul><li>Và hiện tại Liên minh huyền thoại đã chính thức trở thành môn thể thao trong <strong>SEA Games 31</strong>.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/lien-minh-huyen-thoai-nhung-dieu-ban-can-biet-ve-chung-ket-the-gioi-mua-5.jpg" alt="" class="wp-image-31"/><figcaption>Chung kết thế giới mùa 5</figcaption></figure></div>
+
+
+
+<p><em>Cảm ơn tất cả các bạn đã xem bài viết của tôi! Chân thành cảm ơn.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/06/league-of-legend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

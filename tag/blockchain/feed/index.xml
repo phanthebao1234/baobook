@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#blockchain &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject2/tag/blockchain/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 13 Sep 2021 00:25:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>8 lý do bạn nên chuyển từ YouTube sang DTube</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 00:25:57 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<category><![CDATA[#blockchain]]></category>
+		<category><![CDATA[#dtube]]></category>
+		<category><![CDATA[#youtube]]></category>
+		<guid isPermaLink="false">http://localhost:7001/project/?p=68</guid>
+
+					<description><![CDATA[Vì tất cả dung lượng lưu trữ nội dung video đều nằm trên máy chủ của YouTube, nên người dùng cuối không có quyền kiểm soát những gì xảy ra với video của họ. YouTube quyết định những gì nên có trên nền tảng của họ, chứ không phải người dùng YouTube. Nếu bạn muốn kiếm tiền từ video của mình thông qua quảng cáo, YouTube là nhà môi giới quyết định việc kiếm tiền của bạn có hợp lý hay không.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>DTube ra đời khắc phục những nhược điểm của Youtube, Video của bạn sẽ được bảo toàn và không bị xóa vô cớ bởi chính sách của Youtube.</strong></p>
+
+
+
+<h2 style="font-size:35px">Nhược điểm của youtube</h2>
+
+
+
+<p>Vì tất cả dung lượng lưu trữ nội dung video đều nằm trên máy chủ của YouTube, nên người dùng cuối không có quyền kiểm soát những gì xảy ra với video của họ. YouTube quyết định những gì nên có trên nền tảng của họ, chứ không phải người dùng YouTube. Nếu bạn muốn kiếm tiền từ video của mình thông qua quảng cáo, YouTube là nhà môi giới quyết định việc kiếm tiền của bạn có hợp lý hay không.</p>
+
+
+
+<span id="more-68"></span>
+
+
+
+<p>Thuật toán của YouTube được cho là sẽ quảng bá nội dung một cách công bằng, nhưng một số người sáng tạo nội dung trên youtube thì không nghĩ như vậy.<ins></ins></p>
+
+
+
+<p>Vậy nên trang web video tập trung có thể là vấn đề. Nhưng nếu YouTube tệ, tại sao mọi người vẫn sử dụng nó? Không phải ai cũng vậy. Một số người đã chuyển sang sử dụng DTube.</p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://localhost:7001/project/wp-content/uploads/2021/09/dtube.jpg" alt="" class="wp-image-69" width="530" height="302"/></figure></div>
+
+
+
+<p>DTube là một dịch vụ video phi tập trung tồn tại trên blockchain chứ không phải một máy chủ trung tâm. Người sáng tạo nội dung có thể sử dụng dịch vụ thoải mái vì dữ liệu của bạn sẽ an toàn. Hơn nữa, nội dung video không thể bị kiểm duyệt bởi bất kỳ ai bên ngoài cộng đồng DTube.</p>
+
+
+
+<p>Tiền được tích lũy thông qua tiền điện tử thay vì dựa vào quảng cáo và không có thuật toán ẩn, thay vào đó trang web sẽ dựa trên phản hồi trực tiếp của người dùng để xếp hạng video.</p>
+
+
+
+<ol style="font-size:35px"><li><strong>DTube là một nền tảng phi tập trung</strong></li></ol>
+
+
+
+<p>Trước hết, DTube không có máy chủ trung tâm. Tất cả nội dung được lưu trữ trên blockchain. Về bản chất, dữ liệu của blockchain được xác minh giữa tất cả các thành viên của nó.<ins></ins></p>
+
+
+
+<p>Đây là một ví dụ về Distributed Hash Tables (DHT) và hoạt động tương tự như việc nén thông tin ngang hàng (peer-to-peer). Do đó, không có một tệp video chính xác nào ở một nơi.</p>
+
+
+
+<p>Điều này làm cho việc giả mạo nội dung video trên DTube trở nên khó khăn, nếu không muốn nói là không thể. DTube không phải là ứng dụng trực tuyến duy nhất hoạt động theo cách này này. Nếu bạn đã từng tự hỏi bản thân rằng liệu một mạng internet thực sự phi tập trung có khả thi hay không, thì DTube là câu trả lời.</p>
+
+
+
+<p>Video phi tập trung có nghĩa là không có cách nào để xóa nội dung khỏi trang web. Đây có thể là con dao 2 lưỡi. Tuy nhiên, đối với một số người dùng, việc đảm bảo rằng nội dung của họ không nằm trong tay một tổ chức lớn là một ưu điểm và là lý do để chuyển sang DTube.</p>
+
+
+
+<ol start="2" style="font-size:35px"><li><strong>DTube là một dịch vụ bảo mật</strong></li></ol>
+
+
+
+<p>Không có máy chủ trung tâm có nghĩa là không có nơi cố định lưu trữ tất cả dữ liệu của người dùng. Mọi người đều đăng video dưới bút danh đã đặt và trang web không có sử dụng cách đăng nhập truyền thống, mà dùng nền tảng Steemit.</p>
+
+
+
+<p>Bạn có thể xác định danh tính của mình theo bất kỳ cách nào bạn muốn, nhưng không có cách nào để dữ liệu của bạn bị rò rỉ.</p>
+
+
+
+<ol start="3" style="font-size:35px"><li><strong>DTube không có quảng cáo</strong></li></ol>
+
+
+
+<p>Vì DTube sử dụng DTube Coin ($DTC) làm đơn vị tiền tệ của mình, nên không cần quảng cáo. Người dùng bình chọn video để đánh giá. Các video phổ biến nhận được $DTC và nó được thanh toán vào ví của người sáng tạo nội dung.</p>
+
+
+
+<p>Người sáng tạo có thể tự do quảng cáo trong video của họ, nhưng nhiều người dùng không thích quảng cáo, do đó, dựa vào $DTC dường như là cách tốt nhất để kiếm tiền từ video trên DTube.</p>
+
+
+
+<ol start="4" style="font-size:35px"><li><strong>Bạn có thể kiếm tiền trên DTube</strong></li></ol>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/dtube-coin.jpg" alt="" class="wp-image-70"/></figure></div>
+
+
+
+<p>Có thể bạn đã nhận ra rằng DTube là một nền tảng khá hấp dẫn cho những người sáng tạo nội dung.</p>
+
+
+
+<p>Nền tảng này đã phổ biến với các vlogger, nhiều người trong số họ tạo nội dung về chính DTube, cũng như tiền điện tử nói chung.</p>
+
+
+
+<p>Một sự khác biệt đáng kể với DTube là video chỉ kiếm được tiền trong bảy ngày. Bất cứ điều gì bạn đã làm trong thời gian này đều được trả vào ví của bạn. Video vẫn còn trên trang web, nhưng nó sẽ ngừng thu được tiền.</p>
+
+
+
+<ol start="5" style="font-size:35px"><li><strong>Dtube không có kiểm duyệt</strong></li></ol>
+
+
+
+<p>DTube còn cho bạn tự do ngôn luận. Phi tập trung có nghĩa là không có cách kiểm duyệt video. Trong khi YouTube quyết định điều gì phù hợp với nền tảng của mình, thì DTube lại khác.</p>
+
+
+
+<p>Cộng đồng tự đánh giá tất cả nội dung video. Về nguyên tắc, dịch vụ cho phép bất kỳ thứ gì trên trang web, nhưng trên thực tế, cộng đồng rất giỏi trong việc lọc ra các video vô ích hoặc nguy hiểm.</p>
+
+
+
+<ol start="6" style="font-size:35px"><li><strong>DTube không có thuật toán</strong></li></ol>
+
+
+
+<p>YouTube đề xuất video dựa trên một hệ thống phân tích siêu dữ liệu được cho là công bằng. Nhưng mình chắc là các bạn không nghĩ như vậy và cũng ko có gì đảm bảo video của bạn sẽ đến với người dùng.</p>
+
+
+
+<p>DTube giải quyết vấn đề này bằng cách dựa trên lượt xem và đánh giá của người dùng. Nếu cộng đồng cho rằng video của bạn có giá trị, video của bạn sẽ có được sức hút và được xếp hạng trong số các video thịnh hành.</p>
+
+
+
+<ol start="7" style="font-size:35px"><li><strong>DTube có một cộng đồng tốt</strong></li></ol>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full"><img src="http://localhost:7001/project/wp-content/uploads/2021/09/dtube_about_670-670x263-1.jpg" alt="" class="wp-image-71"/></figure></div>
+
+
+
+<p>DTube có một cộng đồng chặt chẽ, với nhiều người sáng tạo nội dung liên kết với nhau về các dự án và chia sẻ công việc của nhau. Nhiều người dùng ví DTube là thành viên ngày đầu của YouTube.<ins></ins></p>
+
+
+
+<p>Cộng đồng năng động này, cùng với động lực tài chính mà nền tảng mang lại, khiến DTube trở thành một cộng đồng trẻ sôi động đang trên đà phát triển.</p>
+
+
+
+<ol start="8" style="font-size:35px"><li><strong>DTube không phải là một phần của Big Five</strong></li></ol>
+
+
+
+<p>Google, Amazon, Facebook, Microsoft và Apple là những gã khổng lồ công nghệ. Họ hoàn toàn thống trị công nghệ. Thật hiếm khi tìm thấy bất kỳ dịch vụ nào không sử dụng dịch vụ của họ. Hầu hết mọi người không coi đó là một vấn đề.</p>
+
+
+
+<p>DTube độc ​​lập với năm ông lớn này, vì vậy nếu việc tránh né các tập đoàn công nghệ lớn là điều bạn mong muốn, thì DTube là dành cho bạn.</p>
+
+
+
+<h2>DTube là một phần của công nghệ blockchain</h2>
+
+
+
+<p>Công nghệ blockchain đang thay đổi nghành truyền thông, giải trí và các trang web như DTube đang đi tiên phong trong những cách thức mới để chia sẻ cả nội dung sáng tạo.</p>
+
+
+
+<p>DTube chỉ là một phần nhỏ của một phong trào lớn hơn và toàn bộ cuộc cách mạng blockchain cho thấy rất ít dấu hiệu dừng lại.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/2021/09/13/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
