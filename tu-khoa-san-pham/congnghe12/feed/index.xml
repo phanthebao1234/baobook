@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>congnghe12 &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject2/tu-khoa-san-pham/congnghe12/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Sep 2021 08:56:40 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Công Nghệ 12 (2021)</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/cong-nghe-12-2021/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/cong-nghe-12-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 08:56:09 +0000</pubDate>
+				<guid isPermaLink="false">https://phanthebao1234.github.io/thebao_demo3/?post_type=product&#038;p=311</guid>
+
+					<description><![CDATA[Sách giáo khoa 12 dành cho học sinh lớp 12.]]></description>
+										<content:encoded><![CDATA[<table class="data-table table-additional">
+<tbody>
+<tr>
+<th class="table-label">Cấp Độ/ Lớp</th>
+<td class="data_reading_level"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?reading_level=1176181&amp;fhs_campaign=ATTRIBUTE_PRODUCT">Lớp 12</a></td>
+</tr>
+<tr>
+<th class="table-label">Cấp Học</th>
+<td class="data_stages"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?stages=1176193&amp;fhs_campaign=ATTRIBUTE_PRODUCT">Cấp 3</a></td>
+</tr>
+<tr>
+<th class="table-label">Nhà Cung Cấp</th>
+<td class="data_supplier_list"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?supplier_list=1229070&amp;fhs_campaign=ATTRIBUTE_PRODUCT">Nhà xuất bản Giáo Dục</a></td>
+</tr>
+<tr>
+<th class="table-label">Tác giả</th>
+<td class="data_author">Bộ Giáo Dục Và Đào Tạo</td>
+</tr>
+<tr>
+<th class="table-label">NXB</th>
+<td class="data_publisher">NXB Giáo Dục Việt Nam</td>
+</tr>
+<tr>
+<th class="table-label">Năm XB</th>
+<td class="data_publish_year">2021</td>
+</tr>
+<tr>
+<th class="table-label">Trọng lượng (gr)</th>
+<td class="data_weight">300</td>
+</tr>
+<tr>
+<th class="table-label">Kích Thước Bao Bì</th>
+<td class="data_size">24 x 17 cm</td>
+</tr>
+<tr>
+<th class="table-label">Số trang</th>
+<td class="data_qty_of_page">120</td>
+</tr>
+<tr>
+<th class="table-label">Hình thức</th>
+<td class="data_book_layout">Bìa Mềm</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/cong-nghe-12-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

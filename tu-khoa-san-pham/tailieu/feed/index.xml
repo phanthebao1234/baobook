@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tailieu &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject2/tu-khoa-san-pham/tailieu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 12:04:14 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>PENTESTING OWASP 2020</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/pentesting-owasp-2020/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/pentesting-owasp-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 12:04:14 +0000</pubDate>
+				<guid isPermaLink="false">https://phanthebao1234.github.io/thebao_demo3/?post_type=product&#038;p=321</guid>
+
+					<description><![CDATA[Tài liệu đầy đủ về pentest web.]]></description>
+										<content:encoded><![CDATA[<p>Bộ tài liệu OWASP 2020</p>
+<p>Thông tin sản phẩm</p>
+<p>Năm sản xuất: 2020</p>
+<p>Nhà xuất bản: Elie Saad &#8211; Matteo Meucci &#8211; Rick Mitchell</p>
+<p>Phiên bản: 4.1</p>
+<p>Số trang: 475</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/pentesting-owasp-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
