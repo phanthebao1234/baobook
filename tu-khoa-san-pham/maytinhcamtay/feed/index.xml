@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>maytinhcamtay &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject2/tu-khoa-san-pham/maytinhcamtay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 26 Sep 2021 12:17:03 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Máy Tính Flexio FX 590 VN</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/may-tinh-flexio-fx-590-vn/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/may-tinh-flexio-fx-590-vn/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 12:15:49 +0000</pubDate>
+				<guid isPermaLink="false">https://phanthebao1234.github.io/thebao_demo3/?post_type=product&#038;p=335</guid>
+
+					<description><![CDATA[<strong>Máy Tính Khoa Học Flexio FX590VN</strong> <strong>là máy tính được Bộ Giáo Dục và Đào Tạo cho phép được mang vào phòng thi.</strong> Dành cho học sinh cấp THCS, THPT và sinh viên.]]></description>
+										<content:encoded><![CDATA[<div id="product_view_info" class="content product_view_content">
+<div class="product_view_tab_content_ad">
+<div id="product_tabs_description_contents">
+<div id="desc_content" class="std">
+<p><strong>Các tính năng của máy tính FX590VN:</strong></p>
+<p>&#8211; Tìm thương và số dư của phép chia.</p>
+<p>&#8211; Tìm số dư của phép chia.</p>
+<p>&#8211; Tìm bội chung nhỏ nhất, ước chung lớn nhất.</p>
+<p>&#8211; Phím nhớ Ans và phím nhớ PreAns.</p>
+<p>&#8211; Chức năng Int và Intg.</p>
+<p>&#8211; Tính tích của các số hạng của một dãy số.</p>
+<p>&#8211; Tính toán bất phương trình (INEQ).</p>
+<p>&#8211; Hiển thị nghiệm đặc biệt.</p>
+<p>&#8211; Lưu nghiệm trong MODE EQN.</p>
+<p>&#8211; Có tính năng THÔNG BÁO KHI HẾT PIN.</p>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/may-tinh-flexio-fx-590-vn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
