@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Dụng cụ học sinh &#8211; My WordPress</title>
+	<title>Dụng cụ học sinh &#8211; BBook</title>
 	<atom:link href="http://localhost/myproject2/danh-muc-san-pham/dung-cu-hoc-sinh/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebao_demo3</link>
-	<description>Just another WordPress site</description>
+	<description>Wellcome to my website</description>
 	<lastBuildDate>Sun, 26 Sep 2021 12:28:29 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

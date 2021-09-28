@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Công nghệ &#8211; My WordPress</title>
+	<title>Công nghệ &#8211; BBook</title>
 	<atom:link href="http://localhost/myproject2/category/cong-nghe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebao_demo3</link>
-	<description>Just another WordPress site</description>
+	<description>Wellcome to my website</description>
 	<lastBuildDate>Mon, 13 Sep 2021 00:25:57 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
