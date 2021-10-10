@@ -42,13 +42,13 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Tự động đăng nhập</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập">
-									<input type="hidden" name="redirect_to" value="https://phanthebao1234.github.io/thebao_demo3/wp-admin/">
+									<input type="hidden" name="redirect_to" value="https://phanthebao1234.github.io/thebao_demo3/wp-admin/upload.php">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
 
 					<p id="nav">
-								<a href="https://phanthebao1234.github.io/thebao_demo3/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+								<a href="https://phanthebao1234.github.io/thebao_demo3/my-account/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -87,7 +87,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject2\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://phanthebao1234.github.io/thebao_demo3/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"25e006c9a3"};
+var userProfileL10n = {"user_id":"0","nonce":"364af59306"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -97,6 +97,9 @@ var userProfileL10n = {"user_id":"0","nonce":"25e006c9a3"};
 } )( "default", {"translation-revision-date":"2021-08-02 03:13:39+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
 <script src="https://phanthebao1234.github.io/thebao_demo3/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
-	<div class="clear"></div>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				<div class="clear"></div>
 	</body>
 	</html>
