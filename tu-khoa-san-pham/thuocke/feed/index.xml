@@ -68,11 +68,11 @@
 </tr>
 <tr>
 <th class="table-label">Tên Nhà Cung Cấp</th>
-<td class="data_supplier"><a class="xem-chi-tiet" href="https://www.fahasa.com/kokuyo?fhs_campaign=ATTRIBUTE_PRODUCT">Kokuyo</a></td>
+<td class="data_supplier"><a class="xem-chi-tiet" href="https://www.fahasa.com/kokuyo?fhs_campaign=ATTRIBUTE_PRODUCT" target="_blank" rel="noopener">Kokuyo</a></td>
 </tr>
 <tr>
 <th class="table-label">Thương Hiệu</th>
-<td class="data_manufacturer"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?manufacturer=151&amp;fhs_campaign=ATTRIBUTE_PRODUCT">Campus</a></td>
+<td class="data_manufacturer"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?manufacturer=151&amp;fhs_campaign=ATTRIBUTE_PRODUCT" target="_blank" rel="noopener">Campus</a></td>
 </tr>
 <tr>
 <th class="table-label">Xuất Xứ Thương Hiệu</th>
@@ -84,7 +84,7 @@
 </tr>
 <tr>
 <th class="table-label">Màu sắc</th>
-<td class="data_color"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?color=40&amp;fhs_campaign=ATTRIBUTE_PRODUCT">Tím</a></td>
+<td class="data_color"><a class="xem-chi-tiet" href="https://www.fahasa.com/all-category.html?color=40&amp;fhs_campaign=ATTRIBUTE_PRODUCT" target="_blank" rel="noopener">Tím</a></td>
 </tr>
 <tr>
 <th class="table-label">Chất liệu</th>
@@ -100,7 +100,7 @@
 </tr>
 <tr>
 <th class="table-label">Sản phẩm bán chạy nhất</th>
-<td><a href="https://www.fahasa.com/van-phong-pham/dung-cu-hoc-sinh/thuoc.html?order=num_orders_month">Top 100 sản phẩm Thước bán chạy của tháng</a></td>
+<td><a href="https://www.fahasa.com/van-phong-pham/dung-cu-hoc-sinh/thuoc.html?order=num_orders_month" target="_blank" rel="noopener">Top 100 sản phẩm Thước bán chạy của tháng</a></td>
 </tr>
 </tbody>
 </table>
