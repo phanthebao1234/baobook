@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject2/tu-khoa-san-pham/sachgiaokhoalop5/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebao_demo3</link>
 	<description>Wellcome to my website</description>
-	<lastBuildDate>Sat, 09 Oct 2021 17:12:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Oct 2021 03:19:36 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Sách Giáo Khoa Bộ Lớp 5 &#8211; Bài Học + Bài Tập (Bộ 20 Cuốn) (2021)</title>
-		<link>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/157/</link>
-					<comments>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/157/#respond</comments>
+		<link>https://phanthebao1234.github.io/thebao_demo3/san-pham/157/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/san-pham/157/#respond</comments>
 		
 		<dc:creator><![CDATA[phanthebao]]></dc:creator>
 		<pubDate>Wed, 22 Sep 2021 08:22:59 +0000</pubDate>
@@ -220,7 +220,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/sản%20phẩm/157/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/san-pham/157/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

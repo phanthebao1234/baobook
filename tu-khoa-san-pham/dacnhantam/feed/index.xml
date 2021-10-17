@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#dacnhantam &#8211; BBook</title>
+	<atom:link href="http://localhost/myproject2/tu-khoa-san-pham/dacnhantam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<description>Wellcome to my website</description>
+	<lastBuildDate>Sun, 17 Oct 2021 13:38:59 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://phanthebao1234.github.io/thebao_demo3/wp-content/uploads/2021/10/onlinelogomaker-100521-1908-2759.png</url>
+	<title>#dacnhantam &#8211; BBook</title>
+	<link>https://phanthebao1234.github.io/thebao_demo3</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Đắc Nhân Tâm</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/san-pham/sach-dac-nhan-tam/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/san-pham/sach-dac-nhan-tam/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Sun, 17 Oct 2021 13:34:15 +0000</pubDate>
+				<guid isPermaLink="false">https://phanthebao1234.github.io/thebao_demo3/?post_type=product&#038;p=4533</guid>
+
+					<description><![CDATA[Đắc Nhân Tâm - How to win friends and Influence People của Dale Carnegie là quyển sách nổi tiếng nhất, bán chạy nhất và có tầm ảnh hưởng nhất của mọi thời đại.]]></description>
+										<content:encoded><![CDATA[<h4 class="BlockTitle__Wrapper-sc-qpz3fo-0 eHltcn">Thông Tin Chi Tiết</h4>
+<div class="content has-table">
+<table>
+<tbody>
+<tr>
+<td>Công ty phát hành</td>
+<td>First News &#8211; Trí Việt</td>
+</tr>
+<tr>
+<td>Ngày xuất bản</td>
+<td>2016-03-18 00:00:00</td>
+</tr>
+<tr>
+<td>Kích thước</td>
+<td>14.5 x 20.5 cm</td>
+</tr>
+<tr>
+<td>Loại bìa</td>
+<td>Bìa mềm</td>
+</tr>
+<tr>
+<td>Số trang</td>
+<td>320</td>
+</tr>
+<tr>
+<td>Nhà xuất bản</td>
+<td>Nhà Xuất Bản Tổng hợp TP.HCM</td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/san-pham/sach-dac-nhan-tam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
