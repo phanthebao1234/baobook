@@ -87,7 +87,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject2\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://phanthebao1234.github.io/thebao_demo3/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"be972e987e"};
+var userProfileL10n = {"user_id":"0","nonce":"06967ee0b0"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

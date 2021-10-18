@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject2/danh-muc-san-pham/tam-ly-hoc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebao_demo3</link>
 	<description>Wellcome to my website</description>
-	<lastBuildDate>Sun, 17 Oct 2021 13:49:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 08:27:06 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,78 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Tâm Lý Học &#8211; Nghệ Thuật Giải Mã Hành Vi</title>
+		<link>https://phanthebao1234.github.io/thebao_demo3/san-pham/4547/</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo3/san-pham/4547/#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 18 Oct 2021 08:27:05 +0000</pubDate>
+				<guid isPermaLink="false">https://phanthebao1234.github.io/thebao_demo3/?post_type=product&#038;p=4547</guid>
+
+					<description><![CDATA[TÂM LÝ HỌC – NGHỆ THUẬT GIẢI MÃ HÀNH VI – CUỐN SÁCH GIÚP BẠN THẤU HIỂU THẾ GIỚI QUAN CỦA CON NGƯỜI]]></description>
+										<content:encoded><![CDATA[<div class="product_view_content-title">Thông tin sản phẩm</div>
+<div class="product_view_tab_content_ad">
+<div class="product_view_tab_content_additional">
+<table class="data-table table-additional">
+<colgroup>
+<col width="25%" />
+<col /></colgroup>
+<tbody>
+<tr>
+<th class="table-label">Mã hàng</th>
+<td class="data_sku">8935325000287</td>
+</tr>
+<tr>
+<th class="table-label">Tên Nhà Cung Cấp</th>
+<td class="data_supplier"><a class="xem-chi-tiet" href="https://www.fahasa.com/az-viet-nam?fhs_campaign=ATTRIBUTE_PRODUCT" target="_blank" rel="noopener">AZ Việt Nam</a></td>
+</tr>
+<tr>
+<th class="table-label">Tác giả</th>
+<td class="data_author">Trần Lộ</td>
+</tr>
+<tr>
+<th class="table-label">Người Dịch</th>
+<td class="data_translator">Trần Cẩm Ninh</td>
+</tr>
+<tr>
+<th class="table-label">NXB</th>
+<td class="data_publisher">NXB Thanh Niên</td>
+</tr>
+<tr>
+<th class="table-label">Năm XB</th>
+<td class="data_publish_year">2021</td>
+</tr>
+<tr>
+<th class="table-label">Ngôn Ngữ</th>
+<td class="data_languages">Tiếng Việt</td>
+</tr>
+<tr>
+<th class="table-label">Trọng lượng (gr)</th>
+<td class="data_weight">450</td>
+</tr>
+<tr>
+<th class="table-label">Kích Thước Bao Bì</th>
+<td class="data_size">24 x 16 cm</td>
+</tr>
+<tr>
+<th class="table-label">Số trang</th>
+<td class="data_qty_of_page">448</td>
+</tr>
+<tr>
+<th class="table-label">Hình thức</th>
+<td class="data_book_layout">Bìa Mềm</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo3/san-pham/4547/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
